@@ -1,0 +1,36 @@
+.woogles-logo {
+  display: flex;
+  /* Inside Auto Layout */
+  flex: none;
+  align-self: center;
+  margin: 0;
+}
+
+.site-icon-rect {
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.site-icon-w {
+    left: 6px;
+    top: 0px;
+    transform: translateX(-3px) rotate(-11deg);
+    position: relative;
+    font-family: 'Mulish', sans-serif;
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 35px;
+    letter-spacing: 0.16em;
+}
+.site-name {
+    flex: none;
+    text-transform: none;
+    align-self: center;
+    margin: 0 12px;
+    font-size: 28px;
+    font-weight: 900;
+    line-height: 35px;
+    letter-spacing: -0.03em;
+}

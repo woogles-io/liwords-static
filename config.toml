@@ -1,4 +1,4 @@
-baseurl = '/'   # we'll map /blog and /guides at the router level
+baseurl = 'https://woogles.io'   # we'll map /blog and /guides at the router level
 languageCode = 'en-us'
 title = 'Woogles Blog'
 theme = "hello-friend"
@@ -13,7 +13,7 @@ paginate = 10
   defaultTheme = "dark"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems = 3
 
   # Show reading time in minutes for posts
   showReadingTime = false
@@ -25,6 +25,7 @@ paginate = 10
   # Show full page content in RSS feed items
   #(default is Description or Summary metadata in the front matter)
   # rssFullText = true
+
 
 [languages]
   [languages.en]
@@ -54,11 +55,14 @@ paginate = 10
 
     [languages.en.menu]
       [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"
+        identifier = "guides"
+        name = "Guides"
+        url = "/guides"
       [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Showcase"
-        url = "/showcase"
-
+        identifier = "blog"
+        name = "Blog"
+        url = "/blog"
+      [[languages.en.menu.main]]
+        identifier = "articles"
+        name = "Articles"
+        url = "/articles"
