@@ -1,36 +1,56 @@
-.woogles-logo {
-  display: flex;
-  /* Inside Auto Layout */
-  flex: none;
-  align-self: center;
-  margin: 0;
+.logo{
+    align-self:center;
+    display:flex;
+    flex:none;
+    margin:0
 }
-
-.site-icon-rect {
-    width: 40px;
-    height: 40px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+.logo .site-icon-rect{
+    align-items:center;
+    border-radius:4px;
+    display:flex;
+    height:40px;
+    justify-content:center;
+    width:40px
 }
-.site-icon-w {
-    left: 6px;
-    top: 0px;
-    transform: translateX(-3px) rotate(-11deg);
-    position: relative;
-    font-family: 'Mulish', sans-serif;
-    font-weight: 700;
-    font-size: 27px;
-    line-height: 35px;
-    letter-spacing: 0.16em;
+.light-theme .logo .site-icon-rect{
+    background:#11659e
 }
-.site-name {
-    flex: none;
-    text-transform: none;
-    align-self: center;
-    margin: 0 12px;
-    font-size: 28px;
-    font-weight: 900;
-    line-height: 35px;
-    letter-spacing: -0.03em;
+.dark-theme .logo .site-icon-rect{
+    background:#7cc4e3
+}
+.logo .site-icon-w{
+    font-family:Mulish,sans-serif;
+    font-size:27px;
+    font-weight:700;
+    left:6px;
+    letter-spacing:.16em;
+    line-height:35px;
+    position:relative;
+    top:0;
+    -webkit-transform:translateX(-3px) rotate(-11deg);
+    transform:translateX(-3px) rotate(-11deg)
+}
+.light-theme .logo .site-icon-w{
+    background:transparent;
+    color:#c9f0ff
+}
+.dark-theme .logo .site-icon-w{
+    background:transparent;
+    color:#135380
+}
+.logo .site-name{
+    align-self:center;
+    flex:none;
+    font-size:28px;
+    font-weight:900;
+    letter-spacing:-.03em;
+    line-height:35px;
+    margin:0 12px;
+    text-transform:none
+}
+.mode--default .logo .site-name{
+    color:#11659e
+}
+.dark-theme .logo .site-name{
+    color:#7cc4e3
 }
