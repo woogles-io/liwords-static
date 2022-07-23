@@ -3,6 +3,7 @@ title = "How to use Woogles tournament software"
 date = "2022-07-20"
 author = "Ben Schoenbrun"
 description = "Learn how to use the Woogles tournament software as a director."
+tags = ["tournaments"]
 +++
 
 ### Tournament Mode User Guide
@@ -76,7 +77,7 @@ Teams need to be ranked in alternative order using tournament ratings. The highe
 
 **NOTE: The pairing rules above do a good job of covering most scenarios, but there is no pairing system that can account for every possible situation. Once you start a round, you cannot change the pairings for that round, so be sure to look over the pairings and make any necessary changes before doing so, especially towards the end of the tournament.**
 
-To give you an idea of what the pairing rules for an actual tournament look like, the following was used for the 12-round Tournament with about 30 players. The pairings generally worked well, but a few things needed to be manually changed towards the end of the tournament.
+To give you an idea of what the pairing rules for an actual tournament look like, the following was used for a 12-round tournament with about 30 players. The pairings generally worked well, but a few things needed to be manually changed towards the end of the tournament.
 
 {{< figure src="/guides/sample_pairings.png" caption="Image 8: Sample tournament pairings" >}}
 
