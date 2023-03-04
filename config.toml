@@ -1,4 +1,4 @@
-baseurl = 'https://www.woogles.io/blog'  # we will handle the routing at the cloudfront level.
+baseurl = 'https://woogles.io/blog'  # we will handle the routing at the cloudfront level.
 languageCode = 'en-us'
 title = 'Woogles Blog'
 theme = "hello-friend"
