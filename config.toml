@@ -1,4 +1,4 @@
-baseurl = 'https://woogles.io'   # we'll map /blog and /guides at the router level
+baseurl = 'https://blog.woogles.io'
 languageCode = 'en-us'
 title = 'Woogles Blog'
 theme = "hello-friend"
