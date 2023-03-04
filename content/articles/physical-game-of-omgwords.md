@@ -1,11 +1,18 @@
-+++
-title = "The physical game of OMGWords"
-date = "2022-07-20"
-author = "Jesse D"
-description = "Stronger"
-+++
-
-
+---
+title: The physical game of OMGWords
+date: 2022-07-20
+author: Jesse D
+description: Stronger
+tags:
+  - elephants
+  - bigbluenose
+---
 You must lift a lot to be good at Scrabble.
 
 Deadlifts, specifically.
+
+
+
+W﻿elcome to the Elephant:
+
+![](/blog/images/uploads/dogworms.png)
