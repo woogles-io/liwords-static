@@ -2,7 +2,7 @@ backend:
   name: github
   branch: main # Branch to update (optional; defaults to master)
   repo: domino14/liwords-static
-  base_url: https://liwords-static.pages.dev
+  base_url: https://blog.woogles.io
   auth_endpoint: /api/auth
 
 # publish_mode: editorial_workflow

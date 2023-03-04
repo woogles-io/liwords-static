@@ -1,4 +1,4 @@
-baseurl = 'https://liwords-static.pages.dev' # we will handle the routing at the cloudfront level.
+baseurl = 'https://blog.woogles.io' 
 languageCode = 'en-us'
 title = 'Woogles Blog'
 theme = "hello-friend"
