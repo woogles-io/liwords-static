@@ -6,4 +6,4 @@ description: Do you want to improve?
 ---
 OMGWords requires a good mental game. Ask César Del Solar, one of our most even-keeled experts. plz
 
-![](/images/uploads/tourney.png)
+![](/images/uploads/2sk9dwb2-6.png)
