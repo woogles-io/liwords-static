@@ -5,14 +5,11 @@ author: Jesse D
 description: Stronger
 tags:
   - elephants
-  - bigbluenose
 ---
 You must lift a lot to be good at Scrabble.
 
 Deadlifts, specifically.
 
-
-
 W﻿elcome to the Elephant:
 
-![](/images/uploads/dogworms.png)
+![](/images/uploads/dogworms.png "did it work?")
