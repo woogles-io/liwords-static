@@ -24,22 +24,22 @@ The Director(s) are responsible for the following:
 7. Make sure the players comply with both Woogles' rules and your own rules.
 
 
-{{< figure src="/guides/director_tools.png" caption="Image 1: Tournament mode director’s tools: Main Screen" >}}
+{{< figure src="/blog/guides/director_tools.png" caption="Image 1: Tournament mode director’s tools: Main Screen" >}}
 
 Before the Tournament:
 
 1. In order to set up a division, click "Add Division." Enter a name and hit enter. You can create as many divisions as you want, but you generally want at least 4 players per division, and an even number of players are generally better than odd in order to avoid byes.
 
 
-{{< figure src="/guides/add_division.png" caption="Image 2: Add division" >}}
+{{< figure src="/blog/guides/add_division.png" caption="Image 2: Add division" >}}
 
 2. For each division, set tournament controls. Choose your division from the drop-down and click "Edit Game Settings". Choose the game settings that you want for that division, click "submit" and click "Save Game Settings"
 
-{{< figure src="/guides/set_controls.png" caption="Image 3: Set Tournament Controls" >}}
+{{< figure src="/blog/guides/set_controls.png" caption="Image 3: Set Tournament Controls" >}}
 
 3. Add Players lets you add players to divisions. Select the division from the drop down that you want to add the player into, type in their woogles username, and type in a rating for them (NOTE: This rating does not have to be the user's Woogles rating. This rating is simply used to determine certain pairings. If you are not sure what to do just enter "1" for each player)
 
-{{< figure src="/guides/add_players.png" caption="Image 4: Adding players to your tournament" >}}
+{{< figure src="/blog/guides/add_players.png" caption="Image 4: Adding players to your tournament" >}}
 
 **Note: You can also add players during the middle of the tournament. Those players will receive forfeit losses for each round that has already passed.**
 
@@ -47,7 +47,7 @@ Before the Tournament:
 
 5. Next you will need to set up pairings for your tournament. This is done on a round by round basis. 
 
-{{< figure src="/guides/set_round_controls.png" caption="Image 5: Pairings main screen" >}}
+{{< figure src="/blog/guides/set_round_controls.png" caption="Image 5: Pairings main screen" >}}
 
 - Manual pairings are done by the director themself using "set single pairing" to pair each player in every round. This is not recommended except for the smallest of tournaments or for late rounds in medium-sized tournaments.
 - Random pairings are self-explanatory. These can be useful for the first round but are not recommended beyond that.
@@ -56,7 +56,7 @@ Before the Tournament:
   - If repeat relative weight is much larger than win difference relative weight then the pairing algorithm tries very very hard to avoid repeats.
   - If repeat relative weight is much smaller than win difference relative weight then it tries very very hard to avoid pairing people with large differences in number of wins.
 
-{{< figure src="/guides/swiss_pairings.png" caption="Image 6: Swiss pairings" >}}
+{{< figure src="/blog/guides/swiss_pairings.png" caption="Image 6: Swiss pairings" >}}
 
 - Use Round Robin if you want everyone to play everyone else in the field. For example, if you have 8 players in your tournament, you can set round robin to rounds 1-7.
 - Initial Fontes splits players into groups by rating, puts one player from each group into a pod, and then each pod plays a round robin. This is often used at the beginning of a large tournament before swiss pairings begin. Note: Initial fontes pairings only work for an odd number of rounds because each pod needs an even number of players.
@@ -73,13 +73,13 @@ Before the Tournament:
 
 Teams need to be ranked in alternative order using tournament ratings. The highest rated player will be Team A Player 1. The 2nd highest rated player will be Team B Player 1. The 3rd highest rated player will be Team A Player 2. The 4th highest rated player will be team B player 2, and so on.
 
-{{< figure src="/guides/team_pairings.png" caption="Image 7: If a team round robin was held with these 4 players, the teams would be bnjy and woogie vs cesar and rightbehindyou." >}}
+{{< figure src="/blog/guides/team_pairings.png" caption="Image 7: If a team round robin was held with these 4 players, the teams would be bnjy and woogie vs cesar and rightbehindyou." >}}
 
 **NOTE: The pairing rules above do a good job of covering most scenarios, but there is no pairing system that can account for every possible situation. Once you start a round, you cannot change the pairings for that round, so be sure to look over the pairings and make any necessary changes before doing so, especially towards the end of the tournament.**
 
 To give you an idea of what the pairing rules for an actual tournament look like, the following was used for a 12-round tournament with about 30 players. The pairings generally worked well, but a few things needed to be manually changed towards the end of the tournament.
 
-{{< figure src="/guides/sample_pairings.png" caption="Image 8: Sample tournament pairings" >}}
+{{< figure src="/blog/guides/sample_pairings.png" caption="Image 8: Sample tournament pairings" >}}
 
 Now you have everything you need to start your tournament! When you're ready, click the "Start tournament" button. Important: Once you click "Start Tournament" or "Open Round" you cannot undo that. It should also be noted that you cannot open a round until all of the previous round’s games are complete (either by players playing the games or the director entering scores using “Set Game Result”.)
 
@@ -88,7 +88,7 @@ In the middle of a tournament, you can change the pairings for a single round us
 If you are setting up pairings for the next round, "Set single pairing" can be used to pair 2 players against each other. Please note that if those players already had opponents, then those opponents will also need to be re-paired before you can open the round.
 - "Set game result" can be used to manually enter a game score if needed. For example, if a player doesn't show up for their round, you might want to set the score to 50-0 in favor of the player who showed up. Note: Check "Amendment" if there was already a completed game to amend the score of that game.
 
-{{< figure src="/guides/set_game_result.png" caption="Image 9: Setting a game result" >}}
+{{< figure src="/blog/guides/set_game_result.png" caption="Image 9: Setting a game result" >}}
 
 - "Pair Entire Round" and "Unpair entire round" can be used before opening a round alongside "Set single round controls" to quickly change pairings using one of the rules described above in section 5.
 

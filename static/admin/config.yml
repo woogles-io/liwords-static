@@ -2,7 +2,7 @@ backend:
   name: github
   branch: main # Branch to update (optional; defaults to master)
   repo: domino14/liwords-static
-  base_url: https://blog.woogles.io
+  base_url: https://www.woogles.io/blog
   auth_endpoint: /api/auth
 
 # publish_mode: editorial_workflow
@@ -22,9 +22,10 @@ collections:
       - {label: "Author", name: "author", widget: "string"}
       - {label: "Description", name: "description", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
-  - name: "blog" # Used in routes, e.g., /admin/collections/blog
-    label: "Blog" # Used in the UI
-    folder: "content/blog" # The path to the folder where the documents are stored
+
+  - name: "posts" # Used in routes, e.g., /admin/collections/blog
+    label: "Blog post" # Used in the UI
+    folder: "content/posts" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
@@ -33,6 +34,7 @@ collections:
       - {label: "Author", name: "author", widget: "string"}
       - {label: "Description", name: "description", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
+
   - name: "guides" # Used in routes, e.g., /admin/collections/blog
     label: "Guide" # Used in the UI
     folder: "content/guides" # The path to the folder where the documents are stored
@@ -43,8 +45,8 @@ collections:
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Author", name: "author", widget: "string"}
       - {label: "Description", name: "description", widget: "string"}
-      - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}
+      - {label: "Body", name: "body", widget: "markdown"}
             
   # files
   # - label: "Pages"

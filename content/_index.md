@@ -1,1 +1,0 @@
-## Note: this particular page will not render on production. Instead, the woogles.io logo should direct to the main woogles app until further notice.

@@ -1,4 +1,4 @@
-baseurl = 'https://blog.woogles.io'
+baseurl = 'https://www.woogles.io/blog'  # we will handle the routing at the cloudfront level.
 languageCode = 'en-us'
 title = 'Woogles Blog'
 theme = "hello-friend"
@@ -7,7 +7,7 @@ paginate = 10
 [params]
   # dir name of your blog content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
-  # contentTypeName = "blog"
+  contentTypeName = "posts"
 
   # OS theme is default when not provided, but you can force it to "light" or "dark"
   defaultTheme = "dark"
@@ -61,7 +61,7 @@ paginate = 10
       [[languages.en.menu.main]]
         identifier = "blog"
         name = "Blog"
-        url = "/blog"
+        url = "/posts"
       [[languages.en.menu.main]]
         identifier = "articles"
         name = "Articles"
