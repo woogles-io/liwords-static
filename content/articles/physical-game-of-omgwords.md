@@ -15,4 +15,4 @@ Deadlifts, specifically.
 
 W﻿elcome to the Elephant:
 
-![](/blog/images/uploads/dogworms.png)
+![](/images/uploads/dogworms.png)

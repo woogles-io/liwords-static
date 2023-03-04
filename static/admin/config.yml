@@ -2,12 +2,12 @@ backend:
   name: github
   branch: main # Branch to update (optional; defaults to master)
   repo: domino14/liwords-static
-  base_url: https://woogles.io
-  auth_endpoint: /blog/api/auth
+  base_url: https://liwords-static.pages.dev
+  auth_endpoint: /api/auth
 
 # publish_mode: editorial_workflow
 media_folder: "static/images/uploads"
-public_folder: "/blog/images/uploads"
+public_folder: "/images/uploads"
 logo_url: https://woogles.io/static/media/woogles.c1e5d17fb6f5e90ff515.png 
 
 collections:
