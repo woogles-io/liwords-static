@@ -4,7 +4,7 @@ backend:
   repo: domino14/liwords-static
   base_url: https://blog.woogles.io
   auth_endpoint: /api/auth
-  auth_scope: user:email
+  auth_scope: public_repo
 
 # publish_mode: editorial_workflow
 media_folder: "static/images/uploads"
