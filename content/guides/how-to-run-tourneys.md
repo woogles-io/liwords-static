@@ -1,7 +1,7 @@
 +++
 title = "How to use Woogles tournament software"
 date = "2022-07-20"
-author = "Ben Schoenbrun"
+authors = ["bnjy"]
 description = "Learn how to use the Woogles tournament software as a director."
 tags = ["tournaments"]
 +++

@@ -1,7 +1,7 @@
 +++
 title = "How to use Woogles.io's various secret features"
 date = "2021-04-11"
-author = "César Del Solar"
+authors = ["cesar", "andy"]
 description = "We have a number of secret features that you can enable in your settings menu. This guide shows you a bit more information about these."
 tags = ["secrets"]
 +++

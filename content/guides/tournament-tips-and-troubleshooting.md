@@ -1,7 +1,7 @@
 +++
 title = "Tournament tips and troubleshooting"
 date = "2022-11-10"
-author = "César Del Solar"
+authors = ["cesar"]
 description = "Some tips to maximize success when running a tournament using Woogles' tournament mode."
 tags = ["tournaments"]
 +++
