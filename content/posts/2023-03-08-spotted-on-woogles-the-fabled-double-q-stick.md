@@ -4,6 +4,8 @@ date: 2023-03-08T04:27:43.762Z
 authors:
   - cesar
 description: Did you know you can stick your opponent with two Qs in our ZOMGWords variant?
+tags: 
+  - zomgwords
 ---
 Thanks to [Churrrro](https://woogles.io/profile/churrrro) for submitting this hilarious position!
 
