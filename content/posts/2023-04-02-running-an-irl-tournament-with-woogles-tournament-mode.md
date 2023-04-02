@@ -50,9 +50,12 @@ The script calls the Woogles tournament API, and takes as arguments the tourname
 
 See the Github repo here: <https://github.com/domino14/tourneypdf>
 
-Some changes we could make
+Some changes we could make:
 
-
+* Customizable number of rounds; after some number scorecard should be single-page
+* Configurable tournament name, messages in between rounds (be back from lunch at X PM), logos
+* QR code for Woogles tournament URL
+* etc
 
 I also added a very quick stats script that I hacked together right after the end of Rounds 6 and 7, in order to compute the biggest "upset", since we had a prize for this.
 
