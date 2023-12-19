@@ -12,6 +12,4 @@ The Woogles Board of Trustees is looking for some enthusiastic people willing to
 \
 <https://docs.google.com/document/d/1OMoT5FQBK1hbsnPBwNdviwJxrM80jauAEieHVEpFMKA/edit>
 
-
-
-Please submit your applications by January 3, 2024 to woogles@woogles.io.
+Please submit your applications by December 31, 2023 to woogles@woogles.io.
