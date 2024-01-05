@@ -4,23 +4,23 @@ date: 2024-01-01T22:42:51.060Z
 authors:
   - cesar
 description: Let’s attempt to dispel some common notions about our bots, and
-  about luck in general
+  about luck in general.
 tags:
   - luck
   - codecorner
 cover: /images/uploads/img_0107.jpeg
 ---
-In American grandmaster Mack Meller’s YouTube best-of-100 series between himself and our newest bot, BestBot (currently still in testing), there are invariably many unbelieving commenters. Mack didn’t have a great start, and the bot has been getting lucky, but many people comment something along the lines of “the bot’s code needs to be audited”.
+In American grandmaster [Mack Meller’s YouTube best-of-100 series](https://www.youtube.com/@mackmeller) between himself and our newest bot, BestBot (currently still in testing), there are invariably many unbelieving commenters. Mack didn’t have a great start, and the bot has been getting lucky, but many people comment something along the lines of “the bot’s code needs to be audited”.
 
 Privately, I have received multiple messages from different people about how the Woogles randomizer is broken. Some of the messages are very angry! We’ve had a few people quit repeatedly and come back, citing their unreal luck. One player even insisted that they drew the rack WOOGLES and then something close to their own username within a few games of each other, and used this as evidence that our randomizer was broken. When I asked them if it was conceivable that I would write code to scan our players’ usernames and draw those racks slightly more often, rather than write code to do literally anything else (we have a lot of planned feature requests!) they didn’t really have an answer for this.
 
-We human beings are notoriously bad at evaluating randomness. In general we tend to exaggerate our perception of bad luck and forget about streaks of good luck. Which poker player doesn’t have multiple bad beat stories and not so many stories about getting lucky? A few years ago I was convinced that ISC tile drawing code was rigged. Since their tile draws are client-side, I was able to, with Josh C, decompile the front-end JavaScript for drawing tiles and step through the algorithm to conclude that no, it is not rigged. 
+We human beings are notoriously bad at evaluating randomness. In general we tend to exaggerate our perception of bad luck and forget about streaks of good luck. Which poker player doesn’t have multiple bad beat stories and not so many stories about getting lucky? A few years ago I was convinced that ISC tile drawing code was rigged. Since their tile draws are client-side, I was able to, with Josh C, decompile the front-end JavaScript for drawing tiles and step through the algorithm to conclude that no, it is not rigged.
 
 Let’s take an experiment as an example. You don’t have to do this, but imagine writing down 100 coin flips on a piece of paper (H for heads and T for tails). If you were to ask a few people to do this, you’d see what at first glance looks like a pretty random distribution of Hs and Ts. You can then have a computer simulate 100 coin flips (or better yet, actually flip a coin 100 times), and write these down on another piece of paper. Then ask a statistician which one was human-generated and which one was actual coin flips; they should be able to quickly tell you. How? The real coin flips will be more “streaky”. It is unlikely for a person to write down 6 heads or tails in a row, but in a set of 100 coin flips, the chances of getting at least 6 heads or tails in a row somewhere is 80.6%! This may sound shocking (it is to me) but it is hopefully illuminating.
 
 ### The code behind tile drawing
 
-As I have reminded people a few times, all of our Woogles code is open-source and available at <https://github.com/domino14/liwords>. For the purposes of this topic, another code base is more relevant - the rules of OMGWords are implemented in <https://github.com/domino14/macondo>. Macondo is also used as the AI for our bots - we believe it to be the strongest crossword board game AI yet built. 
+As I have reminded people a few times, all of our Woogles code is open-source and available at <https://github.com/domino14/liwords>. For the purposes of this topic, another code base is more relevant - the rules of OMGWords are implemented in <https://github.com/domino14/macondo>. Macondo is also used as the AI for our bots - we believe it to be the strongest crossword board game AI yet built.
 
 The bag code and tile drawing routine can be found here:
 
@@ -40,7 +40,6 @@ func (b *Bag) Draw(n int, ml []MachineLetter) error {
 	}
 	l := len(b.tiles)
 	k := l - n
-
 
 	if !b.fixedOrder {
 		for i := l; i > k; i-- {
@@ -64,7 +63,7 @@ func (b *Bag) Draw(n int, ml []MachineLetter) error {
 
 I will try to provide a simple explanation of the above code:
 
-First of all, the bag is a linear array of letters. It doesn’t matter whether the letters are shuffled or not. 
+First of all, the bag is a linear array of letters. It doesn’t matter whether the letters are shuffled or not.
 
 1) The `Draw` routine takes in two parameters: the number of tiles to draw (`n`), and a “slice” or array to put these tiles into.
 2) The variable `k` is set to the number of tiles in the bag minus the number of tiles to draw.
