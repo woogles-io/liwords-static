@@ -18,7 +18,7 @@ For the first time, I tried out the woogles IRL tournament management software, 
 
 ![](/images/osc-hybrid-tourney/scoresheet.jpg)
 
-I was also fortunate enough to have some incredibly wonderful and generous streamers donate their time to stream on my behalf -- the incomparable Will Anderson, who guest-hosted on my channel (https://www.twitch.tv/heroinetobirds), and Emma, who streamed on her own channel - https://www.twitch.tv/gurchy. Thank you so much for turning my mediocre Scrabble playing into such entertaining content for the viewers! 🙂
+I was also fortunate enough to have some incredibly wonderful and generous streamers donate their time to stream on my behalf -- the incomparable Will Anderson, who guest-hosted on my channel ([https://www.twitch.tv/heroinetobirds](https://www.twitch.tv/heroinetobirds)), and Emma, who streamed on her own channel - https://www.twitch.tv/gurchy. Thank you so much for turning my mediocre Scrabble playing into such entertaining content for the viewers! 🙂
 
 ![](/images/osc-hybrid-tourney/gurchy-stream.jpg)
 
