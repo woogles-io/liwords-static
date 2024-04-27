@@ -78,7 +78,7 @@ Snake format: The highest rated player will be Team A Player 1. The 2nd highest 
 
 Top v Bottom format: The highest rated top half is Team A and the bottom half is Team B. You can use fake ratings for this.
 
-{{< figure src="/guides/team_pairings.png" caption="Image 7: If a team round robin was held with these 4 players, and "interleave" mode was on, the teams would be bnjy and woogie vs cesar and rightbehindyou." >}}
+{{< figure src="/guides/team_pairings.png" caption="Image 7: If a team round robin was held with these 4 players, and interleave mode was on, the teams would be bnjy and woogie vs cesar and rightbehindyou." >}}
 
 **NOTE: The pairing rules above do a good job of covering most scenarios, but there is no pairing system that can account for every possible situation. Once you start a round, you cannot change the pairings for that round, so be sure to look over the pairings and make any necessary changes before doing so, especially towards the end of the tournament.**
 
