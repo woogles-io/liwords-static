@@ -45,7 +45,7 @@ Before the Tournament:
 
 4. Remove players allows you to remove players before or during the tournament. This can be used if you erroneously added someone to the wrong division, if someone has to drop out in the middle of the tournament, or if you want to disqualify someone. Just click the player you want to remove using the dropdown and then click submit. **Note: Removing a player will not change results from past rounds. If a player is removed in the middle of a game, that player will be able to finish that game and the result will stand.**
 
-5. Next you will need to set up pairings for your tournament. This is done on a round by round basis. 
+5. Next you will need to set up pairings for your tournament. This is done on a round by round basis.
 
 {{< figure src="/guides/set_round_controls.png" caption="Image 5: Pairings main screen" >}}
 
@@ -63,17 +63,22 @@ Before the Tournament:
 **Note: Initial Fontes is the only pairing algorithm that cares about the ratings that you enter for each player (aside from team round robin). It will make better pairings if the users’ ratings are accurate.**
 - King of the Hill pairs based on current standings: 1v2, 3v4, 5v6 and so on. King of the Hill is generally best saved for the last round of the tournament.
 - Factor pairings apply specific pairing rules to the first 2N players in the standings (where N is the factor value) and pairs the rest of the players using Swiss pairings
-  - A factor value of 1 pairs 1v2 and the rest of the field using swiss pairings.  
-  - A factor value of 2 pairs 1v3, 2v4, and the rest of the field using swiss pairings.  
-  - A factor value of 3 pairs 1v4, 2v5, 3v6 and the rest of the field using swiss pairings.  
-  
-  Factor pairings are best used during the penultimate round(s) of a medium/large tournament. 
+  - A factor value of 1 pairs 1v2 and the rest of the field using swiss pairings.
+  - A factor value of 2 pairs 1v3, 2v4, and the rest of the field using swiss pairings.
+  - A factor value of 3 pairs 1v4, 2v5, 3v6 and the rest of the field using swiss pairings.
 
-- Team Round Robin puts players into teams, and then every player plays every player except for those on the same team as them. This should only be used for specific team events.
+  Factor pairings are best used during the penultimate round(s) of a medium/large tournament.
 
-Teams need to be ranked in alternative order using tournament ratings. The highest rated player will be Team A Player 1. The 2nd highest rated player will be Team B Player 1. The 3rd highest rated player will be Team A Player 2. The 4th highest rated player will be team B player 2, and so on.
+**Edited 4/27/24**
+- Team Round Robin puts players into teams, and then every player plays every player except for those on the same team as them.  This can be used for specific team events, or for another method of making partial round robins that are fair.
 
-{{< figure src="/guides/team_pairings.png" caption="Image 7: If a team round robin was held with these 4 players, the teams would be bnjy and woogie vs cesar and rightbehindyou." >}}
+There are two ways to make teams. You can use ratings to rank them into a top half and a bottom half (the default) or you can "interleave" them in a shirts v skins or snake format.
+
+Snake format: The highest rated player will be Team A Player 1. The 2nd highest rated player will be Team B Player 1. The 3rd highest rated player will be Team A Player 2. The 4th highest rated player will be team B player 2, and so on.
+
+Top v Bottom format: The highest rated top half is Team A and the bottom half is Team B. You can use fake ratings for this.
+
+{{< figure src="/guides/team_pairings.png" caption="Image 7: If a team round robin was held with these 4 players, and "interleave" mode was on, the teams would be bnjy and woogie vs cesar and rightbehindyou." >}}
 
 **NOTE: The pairing rules above do a good job of covering most scenarios, but there is no pairing system that can account for every possible situation. Once you start a round, you cannot change the pairings for that round, so be sure to look over the pairings and make any necessary changes before doing so, especially towards the end of the tournament.**
 
