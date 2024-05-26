@@ -1,7 +1,7 @@
 backend:
   name: github
   branch: main # Branch to update (optional; defaults to master)
-  repo: domino14/liwords-static
+  repo: woogles-io/liwords-static
   base_url: https://blog.woogles.io
   auth_endpoint: /api/auth
   auth_scope: public_repo
@@ -9,7 +9,7 @@ backend:
 # publish_mode: editorial_workflow
 media_folder: "static/images/uploads"
 public_folder: "/images/uploads"
-logo_url: https://woogles.io/static/media/woogles.c1e5d17fb6f5e90ff515.png 
+logo_url: https://woogles.io/static/media/woogles.c1e5d17fb6f5e90ff515.png
 
 collections:
   - name: "articles" # Used in routes, e.g., /admin/collections/blog
@@ -53,7 +53,7 @@ collections:
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Cover Image URL", name: "cover", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
-            
+
   # files
   # - label: "Pages"
   #   name: "pages"
