@@ -17,7 +17,7 @@ Here’s a simplified breakdown of how it works: imagine each tile and its posit
 
 The BSAT Solver processes these variables and constraints through an algorithm designed to handle such logic puzzles efficiently. What makes a BSAT Solver particularly powerful is its ability to systematically explore vast numbers of possibilities. It does this by breaking down the problem into smaller, manageable parts and using advanced techniques to prune paths that won’t lead to a solution, thereby saving time.
 
-When the solver finds a valid configuration that yields the highest score, it provides proof that no other configuration can produce a better result under the given constraints. In essence, Lucassen’s use of the BSAT Solver allowed him to rigorously explore all potential OMGWords board setups to confirm that his 1786-point configuration is indeed the best solution discovered so far. 
+When the solver finds a valid configuration that yields the highest score, it provides proof that no other configuration can produce a better result under the given constraints. In essence, Lucassen’s use of the BSAT Solver allowed him to rigorously explore all potential OMGWords board setups to confirm that his 1786-point configuration is indeed the best possible solution.
 
 Of course, the solution does involve **OXYPHENBUTAZONE,** like many other previous high scoring plays, but as seen in the image below, there are some new words and hooks we haven’t seen used yet. The rack is also slightly different - **BENOPXZ** in this new construction vs **ABEOXPZ** from previous constructions. 
 
