@@ -21,6 +21,6 @@ When the solver finds a valid configuration that yields the highest score, it pr
 
 Of course, the solution does involve OXYPHENBUTAZONE, but as seen in the image below, there are some new words we haven’t seen used yet. The rack is also slightly different - BENOPXZ in this new construction vs ABEOXPZ. 
 
-![](/images/uploads/screenshot_20240512-141108.png "Construction of new 1786-pt OXYPHENBUTAZONE play. Thanks to Discord user ddrkanine for providing the above image (using the Woogles board editor) and verifying it can be played with no phonies.")
+![Construction of new 1786-pt OXYPHENBUTAZONE play. Thanks to Discord user ddrkanine for providing the above image (using the Woogles board editor) and verifying it can be played with no phonies.](/images/uploads/screenshot_20240512-141108.png)
 
 Here you can see LADDERLIKE with the B hook, ARROWING with the N hook, STABLISHMENTS with the E hook. And of course, OPACIFICATIONS$+ — new in NWL23, this word made this new 1-pt higher construction possible. Can you find something that scores more in NWL23? B-SAT proves you can’t, but let us know!
