@@ -108,8 +108,8 @@ Usually players would save the most missed words, weirder ones or the
 ones with difficult spellings or their favorite words.
 
 
-![](/images/uploads/savedlists-upload.png "After creating your list with Notepad, you can upload the text file by clicking or dragging-and-dropping it to the box at the bottom of the picture")
-
+![](/images/uploads/savedlists-upload.png)
+ After creating your list with Notepad, you can upload the text file by clicking or dragging-and-dropping it to the box at the bottom of the picture.
 
 Aerolith is fun: Some use it for word learning and some find it an
 examination hall 😊
