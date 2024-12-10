@@ -36,10 +36,7 @@ to NWL23 and on the dropdown you may select CSW24.
 
 ![](/images/uploads/aerolith_lists.png)
 
-
-
 ### Single-Player Challenges
-
 
 This is one of the favorite features of tournament players that they
 use on a daily basis. You may select any word length and pick any
@@ -48,7 +45,6 @@ changed. It is an exam! Click on Play after making your selection.
 
 ![](/images/uploads/challenges.png)
 
-
 After clicking Play, a window will appear where you will have to
 click on **Ready to start** button. You will have 5 minutes to type
 correct answers. Check how many bingos you can see, just type them
@@ -56,14 +52,9 @@ and then analyze your results. I selected 7 as word length in the picture below.
 
 ![](/images/uploads/playing.png)
 
-
 Once the game is over, click on Show solutions.
 
-
-
 ![](/images/uploads/solutions.png)
-
-
 
 Have a look at the missed words; Click “Start” right after
 finishing the daily challenge. It will quiz you on the missed ones
@@ -75,7 +66,6 @@ recognition
 You may also save these in google or excel sheet by selecting the
 range, copying them and then pasting them on daily basis and you can
 review these words whenever you want.
-
 
 If you find some of words as favorites, you can save them in a
 notepad file. Keep accumulating and saving them!
@@ -91,12 +81,9 @@ common words to the most difficult ones and that’s the fun part.
 For players motivation, there is a leaderboard where they can find
 their names and compare their progress with others.
 
-
-
 ![](/images/uploads/leaderboard.png)
 
 ### Saved lists
-
 
 You can add some words in a notepad list for uploading on
 Aerolith. 
@@ -107,15 +94,15 @@ You can save as many customized lists as you want for practice.
 Usually players would save the most missed words, weirder ones or the
 ones with difficult spellings or their favorite words.
 
-
 ![](/images/uploads/savedlists-upload.png)
  After creating your list with Notepad, you can upload the text file by clicking or dragging-and-dropping it to the box at the bottom of the picture.
 
 Aerolith is fun: Some use it for word learning and some find it an
 examination hall 😊
 
-
 The good part about Aerolith is that you don’t have to install it as it is web
 based and you may use it wherever you want.
 
 Happy Word Studying on Aerolith!
+
+*Part 2 of this blog will come soon, featuring Aerolith WordVault, a recent addition to Aerolith that helps you learn words with spaced repetition!*
