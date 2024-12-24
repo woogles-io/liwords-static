@@ -9,7 +9,12 @@ tags:
   - rules
 cover: /images/uploads/omgwords_scoring_guide_image_2.png
 ---
-This guide aims to address the various situations in which a player may be unsure of how many points a certain play will score them. It assumes that the reader already knows that the base value of a word is equal to the total value of its tiles (blank/wild tiles are worth 0 points), that points are awarded for every new word formed by a play, that letter multipliers are calculated before word multipliers, and that the 50-point bonus for a bingo (all 7 tiles being used in one turn) is added after all other contributors to a word’s score have been calculated. 
+This guide aims to address the various situations in which a player may be unsure of how many points a certain play will score them. It assumes that the reader already knows that:
+
+- The base value of a word is equal to the total value of its tiles (blank/wild tiles are worth 0 points)
+- Points are awarded for every new word formed by a play
+- Letter multipliers are calculated before word multipliers
+- The 50-point bonus for a bingo (all 7 tiles being used in one turn) is added after all other contributors to a word’s score have been calculated. 
 
 Additionally, it should be clarified that when you make a play, **all of the letters you play must be placed in a single continuous straight line.** If even a single letter you play is not part of the same line as the other letters, then the play is invalid.
 
