@@ -30,14 +30,10 @@ I learned that BestBot is also great for those who play slowly (like me). You se
 
 The easiest way is to start a game with a computer, and choose BestBot.  You’ll get instructions from there. Part of that process will include creating a username with Patreon (if you don’t already have one) and signing up for a giving level ($3, $10 or $20/month.) 
 
-
-
 ![](/images/uploads/playbot.png)
 
 **Wait, it’s not free?** 
 
 True enough, it is not free. Even a non-profit like Woogles, where everyone is a volunteer, has expenses.  Your subscription to BestBot helps us keep all the other bots free. So, what are you waiting for???
 
-
-
-And before I close - thank you to the many Wooglers who created Best Bot. You know who you are, and I bet half the people who are still reading also know :)
+And before I close - thank you to the many Wooglers who created BestBot. You know who you are, and I bet half the people who are still reading also know :)
