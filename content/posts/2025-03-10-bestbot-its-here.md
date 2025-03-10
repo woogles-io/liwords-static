@@ -12,11 +12,11 @@ tags:
   - aioverlords
 cover: /images/uploads/best.png
 ---
-I’m so excited to both address the Woogles community and announce Best Bot! Yes, those rumors you’ve been hearing are true: we’ve launched it!
+I’m so excited to both address the Woogles community and announce BestBot! Yes, those rumors you’ve been hearing are true: we’ve launched it!
 
-**What’s so great about Best Bot?**  
+**What’s so great about BestBot?**  
 
-Woogles has always had five bots, with HastyBot being the hardest. BestBot is a new, AI-driven bot that beats HastyBot about 60% of the time. Not only is it smarter than Hasty Bot, but it also thinks about more than total equity. Sure, it cares about the score and the leave for each move, but it plays more like an expert, using a simulation to look at least five moves ahead. And when it comes to the endgame, Best Bot looks at every option. (OK, almost every option. It has its limits, just like you and me.) 
+Woogles has always had five bots, with HastyBot being the hardest. BestBot is a new, AI-driven bot that beats HastyBot about 60% of the time. Not only is it smarter than Hasty Bot, but it also thinks about more than total equity. Sure, it cares about the score and the leave for each move, but it plays more like an expert, using a simulation to look at least five moves ahead. And when it comes to the endgame, BestBot looks at every option. (OK, almost every option. It has its limits, just like you and me.) 
 
 **Who should get BestBot?**  
 
