@@ -63,7 +63,7 @@ I believe Monte Carlo simulation will decrease the effect of these improved leav
 
 #### Move generation speed
 
-Macondo is written in Go, which is a very fast language, but a Woogles team member started an open-source rewrite of it in C -- called [MAGPIE](https://github.com/jvc56/MAGPIE). John O'Laughlin of Quackle, Andy Kurnia, and I have contributed code and methodology to make it much faster than Macondo -- potentially between 5 to 10 times faster! It's still missing a multi-threaded endgame engine and a pre-endgame engine but we hope to add those soon. We hope that at some point this year we can change the BestBot backend to MAGPIE and really reap some speed and cost benefits. This should especially benefit us in pre-endgames with more tiles in the bag.
+Macondo is written in Go, which is a very fast language, but a Woogles team member (Josh Castellano) started an open-source rewrite of it in C -- called [MAGPIE](https://github.com/jvc56/MAGPIE). John O'Laughlin of Quackle, Andy Kurnia, and I have contributed code and methodology to make it much faster than Macondo -- potentially between 5 to 10 times faster! It's still missing a multi-threaded endgame engine and a pre-endgame engine but we hope to add those soon. We hope that at some point this year we can change the BestBot backend to MAGPIE and really reap some speed and cost benefits. This should especially benefit us in pre-endgames with more tiles in the bag.
 
 #### Inferences
 
