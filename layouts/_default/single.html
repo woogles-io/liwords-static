@@ -1,0 +1,204 @@
+{{ define "title" }}{{ .Title }}{{ end }} {{ define "css" }} {{ if
+site.Params.customSyntaxHighlighting }}
+<link rel="stylesheet" data-custom-syntax-highlighting />
+<style>
+  .chroma {
+    padding: 1em;
+    background-color: var(--dream-pre-bg, #f5f5f5);
+    border-radius: 0.5em;
+    overflow: auto;
+  }
+
+  html.dark .chroma {
+    background-color: var(--dream-pre-bg-dark, #262626);
+  }
+</style>
+{{ else }}
+<style>
+  pre {
+    padding: 1em;
+    overflow: auto;
+  }
+</style>
+{{ end }} {{ partialCached "commentSystemHeads.html" . }} {{ end }} {{ define
+"main" }}
+<div class="lg:grid lg:grid-cols-4 gap-4 mt-4 px-4">
+  <div class="hidden lg:block">
+    {{ if fileExists "layouts/partials/adsense.html" }}
+    <div class="dream-adsense w-2/3">{{ partialCached "adsense.html" . }}</div>
+    {{ end }}
+  </div>
+
+  <div class="lg:col-span-2">
+    <article
+      class="mx-auto prose prose-quoteless dark:prose-invert"
+      id="dream-single-post-main"
+      itemscope
+      itemtype="http://schema.org/Article"
+    >
+      {{ template "_internal/schema.html" . }}
+
+      <header>
+        <h1 itemprop="headline">{{ .Title }}</h1>
+        <p class="text-sm">
+          {{ if site.Params.Experimental.jsDate }}
+          <span data-format="luxon"
+            >{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}</span
+          >
+          {{ else }} {{ .Date | time.Format "Monday, Jan 2, 2006" }} {{ end }} |
+          <span>{{ .ReadingTime }}{{ T "minuteRead" .ReadingTime }}</span>
+
+          {{ if ne .Params.nolastmod true }} |
+          <span
+            >{{ T "updatedAt" }} {{ if site.Params.Experimental.jsDate }}
+            <span data-format="luxon"
+              >{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}</span
+            >
+            {{ else }} {{ .Lastmod | time.Format "Monday, Jan 2, 2006" }} {{ end
+            }}</span
+          >
+          {{ end }}
+        </p>
+
+        <!-- Share buttons only in the header -->
+        <div class="flex justify-end">{{ partial "share.html" . }}</div>
+      </header>
+
+      <section id="dream-single-post-content" itemprop="articleBody">
+        {{ if and .Params.Cover site.Params.showSummaryCoverInPost }}
+        <img class="w-full z-30" src="{{ .Params.Cover }}" alt="{{ .Title }}" />
+        {{ end }}
+
+        <!-- Prominent author byline at the top of the article content -->
+        {{ if or .Params.author .Params.authors }}
+        <div
+          class="byline not-prose bg-base-100 border-l-4 border-primary px-4 py-2 mb-6 text-lg"
+        >
+          {{ partial "author.html" (dict "Params" .Params "template" "single")
+          }}
+        </div>
+        {{ end }} {{ .Content | emojify }} {{ if fileExists
+        "layouts/partials/adsense-post-bottom.html" }}
+        <div class="dream-adsense-post-bottom">
+          {{ partialCached "adsense-post-bottom.html" . }}
+        </div>
+        {{ end }}
+      </section>
+
+      {{ if site.Params.showPrevNextPost }}
+      <div class="divider"></div>
+      <div class="flex flex-col md:flex-row justify-between gap-4 py-4">
+        {{ with .NextInSection }}
+        <a
+          role="button"
+          class="btn btn-outline h-12"
+          href="{{ .RelPermalink }}"
+          title="{{ .Title }}"
+        >
+          <ion-icon name="chevron-back"></ion-icon>
+          <div class="inline-flex flex-col items-start">
+            <span class="text-base-content/60 text-xs font-normal"
+              >{{ T "prevPage" }}</span
+            >
+            <span class="max-w-48 truncate">{{ .LinkTitle }}</span>
+          </div>
+        </a>
+        {{ end }} {{ with .PrevInSection }}
+        <a
+          role="button"
+          class="btn btn-outline ml-auto h-12"
+          href="{{ .RelPermalink }}"
+          title="{{ .Title }}"
+        >
+          <div class="inline-flex flex-col items-end">
+            <span class="text-base-content/60 text-xs font-normal"
+              >{{ T "nextPage" }}</span
+            >
+            <span class="max-w-48 truncate">{{ .LinkTitle }}</span>
+          </div>
+          <ion-icon name="chevron-forward"></ion-icon>
+        </a>
+        {{ end }}
+      </div>
+      {{ end }} {{ if site.Params.showToc }} {{ if .Params.toc }}
+      <div class="divider"></div>
+      <div id="toc" class="py-4">{{ .TableOfContents }}</div>
+      {{ end }} {{ end }}
+
+      <div class="divider"></div>
+
+      <div id="dream-single-post-prev-next" class="flex justify-between py-4">
+        {{ with .NextInSection }}
+        <a class="link" href="{{ .RelPermalink }}">{{ .Title }}</a>
+        {{ else }}
+        <span></span>
+        {{ end }} {{ with .PrevInSection }}
+        <a class="link" href="{{ .RelPermalink }}">{{ .Title }}</a>
+        {{ else }}
+        <span></span>
+        {{ end }}
+      </div>
+
+      <div class="divider"></div>
+
+      <div class="pb-16 lg:pb-8">
+        {{ if fileExists "layouts/partials/related-posts.html" }} {{
+        partialCached "related-posts.html" . }} {{ end }} {{ if
+        site.Params.showComments }} {{ partial "commentSystems.html" . }} {{ end
+        }}
+      </div>
+    </article>
+  </div>
+
+  <div class="lg:col-span-1">
+    <aside class="w-full md:w-2/3 lg:w-full mx-auto">
+      {{ if .TableOfContents }}
+      <div
+        class="card bg-base-100 dark:border dark:border-base-content/30 mb-6"
+      >
+        <div class="card-body p-4">
+          <h2 class="card-title text-lg">Table of Contents</h2>
+          {{ .TableOfContents }}
+        </div>
+      </div>
+      {{ end }} {{ if fileExists "layouts/partials/adsense-sidebar.html" }}
+      <div class="dream-adsense-sidebar-fixed">
+        {{ partialCached "adsense-sidebar.html" . }}
+      </div>
+      {{ end }}
+    </aside>
+  </div>
+</div>
+{{ end }} {{ define "js" }} {{ if site.Params.Experimental.jsDate }} {{ partial
+"luxon.html" . }} {{ end }} {{ if site.Params.showComments }}
+<script>
+  let i,
+    s,
+    iframe_exists = false;
+  let frames = document.getElementsByTagName("iframe");
+
+  for (i = 0; i < frames.length; ++i) {
+    if (frames[i].title.indexOf("Comments") !== -1) {
+      iframe_exists = true;
+    }
+  }
+
+  if (!iframe_exists) {
+    loadComments();
+  }
+
+  function loadComments() {
+    if (window.location.hash.indexOf("#comment") > 0) {
+      document.getElementById("dream-comments").style.display = "block";
+    }
+
+    if (typeof loadDisqus === "function") {
+      loadDisqus();
+    } else if (typeof loadCommento === "function") {
+      loadCommento();
+    } else if (typeof loadGiscus === "function") {
+      loadGiscus();
+    }
+  }
+</script>
+{{ end }} {{ end }}

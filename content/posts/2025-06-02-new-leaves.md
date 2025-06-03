@@ -89,6 +89,7 @@ As a side note, a lot of the leaves we spot-checked (like ERS, etc) just seemed 
 
 ![](/images/newleaves/analyzer_after.png)
 
+Note some changes above. For example, AINT went from +9.80 to +6.35. AINW went from -1.06 to -3.47.
 
 ---
 

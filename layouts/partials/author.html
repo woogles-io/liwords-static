@@ -1,0 +1,42 @@
+<!-- Custom author partial that supports both author and authors fields -->
+<div class="flex items-center">
+  {{ if and (not .Params.authors) .Params.avatar }}
+  <div class="avatar mr-1">
+    <div class="w-8 rounded-full">
+      <img
+        class="my-0!"
+        src="{{ .Params.avatar }}"
+        alt="{{ .Params.author }}"
+      />
+    </div>
+  </div>
+  {{ else if not .Params.authors }}
+  <span>By: </span>
+  {{ end }} {{ if .Params.author }}
+  <!-- Single author mode -->
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+    {{ if and .Params.authorlink (eq .template "single") }}
+    <a itemprop="url" href="{{ .Params.authorlink }}" target="_blank">
+      <span itemprop="name" class="font-medium">{{ .Params.author }}</span>
+    </a>
+    {{ else }}
+    <span itemprop="name" class="font-medium">{{ .Params.author }}</span>
+    {{ end }}
+  </span>
+  {{ else if .Params.authors }}
+  <!-- Multiple authors mode -->
+  <span>By: </span>
+  {{ $authorCount := len .Params.authors }} {{ range $index, $author :=
+  .Params.authors }}
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+    <span itemprop="name" class="font-medium">{{ $author }}</span>
+  </span>
+  {{- if lt $index (sub $authorCount 1) -}} {{- if eq (add $index 2)
+  $authorCount }}
+  <span class="mx-1">and</span>
+  {{- else -}}
+  <span class="mx-1">, </span>
+  {{- end -}} {{- end -}} {{ end }} {{ else }}
+  <span itemprop="name" class="font-medium">{{ site.Params.author }}</span>
+  {{ end }}
+</div>

@@ -52,9 +52,10 @@
       {{ else }} {{ .Date | time.Format "Monday, Jan 2, 2006" }} {{ end }}
     </p>
 
-    {{ or .Description (.Summary | emojify | safeHTML) }} {{ $hasAuthor := or
-    .Params.author site.Params.author }}
+    {{ or .Description (.Summary | emojify | safeHTML) }}
+
     <div class="card-actions justify-between items-center mt-4">
+      {{ $hasAuthor := or .Params.author .Params.authors site.Params.author }}
       {{ if $hasAuthor }} {{ partial "author.html" (dict "Params" .Params
       "template" "summary") }} {{ end }}
 
