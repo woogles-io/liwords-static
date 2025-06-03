@@ -4,6 +4,9 @@ title = 'Woogles Blog'
 theme = "dream"
 enableRobotsTXT = true
 defaultContentLanguage = "en"
+ignoreLogs = ['warning-goldmark-raw-html']
+
+
 
 [pagination]
   pagerSize = 10
@@ -85,3 +88,8 @@ logoHomeLink = "/"
 #  author = "authors"
 #  tag = "tags"
 #  category = "categories"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

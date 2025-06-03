@@ -1,0 +1,67 @@
+<a
+  class="card bg-base-100 hover:bg-base-content/10 shadow-xl cursor-pointer dark:border dark:border-base-content/30"
+  href="{{ .RelPermalink }}"
+>
+  {{ if .Params.cover }}
+  <figure>
+    {{ with .Resources.Get .Params.cover }} {{ if eq .MediaType.SubType "svg" }}
+    <img src="{{ .RelPermalink }}" alt="{{ .Title }}" />
+    {{ else }} {{ $webp := .Resize (printf "%dx%d webp" .Width .Height) }}
+    <picture>
+      <source srcset="{{ $webp.RelPermalink }}" type="image/webp" />
+      <img src="{{ .RelPermalink }}" alt="{{ .Title }}" />
+    </picture>
+    {{ end }} {{ else }}
+    <img src="{{ .Params.cover }}" alt="{{ .Title }}" />
+    {{ end }}
+  </figure>
+  {{ else }} {{ $section := .Section }}
+  <div
+    class="bg-base-200 dark:bg-base-300 p-6 flex items-center justify-center min-h-[160px] text-center"
+  >
+    <div>
+      {{ if eq $section "guides" }}
+      <div class="text-3xl mb-2">📚</div>
+      <!-- Emoji for guides -->
+      <div class="text-lg font-semibold">Woogles Guide</div>
+      {{ else if eq $section "articles" }}
+      <div class="text-3xl mb-2">📝</div>
+      <!-- Emoji for articles -->
+      <div class="text-lg font-semibold">Woogles Article</div>
+      {{ else if eq $section "posts" }}
+      <div class="text-3xl mb-2">📰</div>
+      <!-- Emoji for posts/news -->
+      <div class="text-lg font-semibold">Woogles News</div>
+      {{ else }}
+      <div class="text-3xl mb-2">📄</div>
+      <!-- Generic document emoji -->
+      <div class="text-lg font-semibold">{{ .Type | title }}</div>
+      {{ end }}
+    </div>
+  </div>
+  {{ end }}
+
+  <div class="card-body">
+    <h2 class="card-title">{{ .Title }}</h2>
+
+    <p class="date text-base-content/60">
+      {{ if site.Params.Experimental.jsDate }}
+      <span data-format="luxon"
+        >{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}</span
+      >
+      {{ else }} {{ .Date | time.Format "Monday, Jan 2, 2006" }} {{ end }}
+    </p>
+
+    {{ or .Description (.Summary | emojify | safeHTML) }} {{ $hasAuthor := or
+    .Params.author site.Params.author }}
+    <div class="card-actions justify-between items-center mt-4">
+      {{ if $hasAuthor }} {{ partial "author.html" (dict "Params" .Params
+      "template" "summary") }} {{ end }}
+
+      <div class="flex items-center">
+        <ion-icon name="time" class="mr-1"></ion-icon>
+        <span>{{ .ReadingTime }}{{ T "minuteRead" .ReadingTime }}</span>
+      </div>
+    </div>
+  </div>
+</a>
