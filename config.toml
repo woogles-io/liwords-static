@@ -1,9 +1,12 @@
 baseurl = 'https://blog.woogles.io'
 languageCode = 'en-us'
 title = 'Woogles Blog'
-theme = "hello-friend"
-paginate = 10
+theme = "dream"
 enableRobotsTXT = true
+defaultContentLanguage = "en"
+
+[pagination]
+  pagerSize = 10
 
 [params]
 # dir name of your blog content (default is `content/posts`).
@@ -19,14 +22,34 @@ showMenuItems = 3
 # Show reading time in minutes for posts
 showReadingTime = false
 
+showTableOfContents = true
+
+showPrevNextPost = true
+
 # Show table of contents at the top of your posts (defaults to false)
 # Alternatively, add this param to post front matter for specific posts
 # toc = true
+
+lightTheme = "emerald"
+darkTheme = "forest"
+
+siteStartYear = 2020
+
+avatar = "img/favicon.png"
 
 # Show full page content in RSS feed items
 #(default is Description or Summary metadata in the front matter)
 # rssFullText = true
 rssLimit = 30
+
+[params.navItems]
+articles = { href = "/articles", title = "Articles" }
+guides = { href = "/guides", title = "Guides" }
+blog = { href = "/posts", title = "Posts" }
+
+
+# reorderNavItems = ["about"]
+
 
 [languages]
 [languages.en]
@@ -54,19 +77,6 @@ logoHomeLink = "/"
 # path = "/img/your-example-logo.svg"
 # alt = "Your example logo alt text"
 
-[languages.en.menu]
-[[languages.en.menu.main]]
-identifier = "guides"
-name = "Guides"
-url = "/guides"
-[[languages.en.menu.main]]
-identifier = "blog"
-name = "Blog"
-url = "/posts"
-[[languages.en.menu.main]]
-identifier = "articles"
-name = "Articles"
-url = "/articles"
 
 # [taxonomies]
 #  author = "authors"
