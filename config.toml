@@ -45,9 +45,10 @@ avatar = "img/favicon.png"
 rssLimit = 30
 
 [params.navItems]
+home = { href = "/", title = "Home" }
 articles = { href = "/articles", title = "Articles" }
 guides = { href = "/guides", title = "Guides" }
-blog = { href = "/posts", title = "Posts" }
+woogles = { href = "https://woogles.io", title = "Woogles.io" }
 
 
 # reorderNavItems = ["about"]
