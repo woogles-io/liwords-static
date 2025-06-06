@@ -11,7 +11,7 @@
     </div>
   </div>
   {{ else if not .Params.authors }}
-  <span>By: </span>
+  <span>By:&nbsp;</span>
   {{ end }} {{ if .Params.author }}
   <!-- Single author mode -->
   <span itemprop="author" itemscope itemtype="https://schema.org/Person">
@@ -25,7 +25,7 @@
   </span>
   {{ else if .Params.authors }}
   <!-- Multiple authors mode -->
-  <span>By: </span>
+  <span>By:&nbsp;</span>
   {{ $authorCount := len .Params.authors }} {{ range $index, $author :=
   .Params.authors }}
   <span itemprop="author" itemscope itemtype="https://schema.org/Person">
@@ -33,9 +33,9 @@
   </span>
   {{- if lt $index (sub $authorCount 1) -}} {{- if eq (add $index 2)
   $authorCount }}
-  <span class="mx-1">and</span>
+  <span class="mx-1">&nbsp;and&nbsp;</span>
   {{- else -}}
-  <span class="mx-1">, </span>
+  <span class="mx-1">,&nbsp;</span>
   {{- end -}} {{- end -}} {{ end }} {{ else }}
   <span itemprop="name" class="font-medium">{{ site.Params.author }}</span>
   {{ end }}
