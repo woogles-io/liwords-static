@@ -40,7 +40,8 @@ darkTheme = "forest"
 
 siteStartYear = 2020
 
-avatar = "img/favicon.png"
+avatar = "img/favicon-96x96.png"
+favicon = "img/favicon-96x96.png"
 
 # Show full page content in RSS feed items
 #(default is Description or Summary metadata in the front matter)

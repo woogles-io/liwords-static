@@ -9,8 +9,8 @@ tags:
   - strategy
 cover: /images/uploads/screenshot_20250109_092955.png
 ---
-*Editor's Note: Short and sweet intro from the writer below. Book tackles CSW strategy but its lessons can definitely be applied to NWL and other lexica.*
+*Editor's Note: Short and sweet intro from the writer below. Book tackles CSW strategy but its lessons can definitely be applied to NWL and other lexica. It is regularly updated so the live link can be found below.*
 
 Hi everyone, my name is Matthew O’Connor and I wrote this book to help intermediate and advanced players get to the next level. I’m hoping there’s something in here for all levels.
 
-Download: <https://woogles-prod-assets.s3.us-east-1.amazonaws.com/oconnor-scrabble-book.pdf>
+Download: <https://docs.google.com/document/d/1NpHQ6s_rcUf6XVoJu6pw5jFb7UKMrBBivOxioJjAVl0/edit?usp=drivesdk>
