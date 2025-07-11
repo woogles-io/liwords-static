@@ -1,6 +1,6 @@
 ---
 title: What Game Settings Should I Use?
-date: 2025-07-11T16:22:00.000Z
+date: 2025-07-11T16:36:00.000Z
 authors:
   - penumbra
 description: An overview of all the gameplay options.
