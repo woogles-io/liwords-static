@@ -10,7 +10,6 @@ cover: /images/uploads/screen-shot-2025-07-11-at-4.23.59-pm.png
 ---
 ### **What Game Settings Should I Use?**
 
-
 When you start a game on [woogles.io](http://woogles.io), the first thing you see is a prompt to choose your settings. Many players, especially new ones, don’t always understand which settings they should use and what problems they might have if they choose the wrong ones.  This guide is meant to help clarify that.
 
 ![Image of the Game Settings dialog box, including fields to enter the opponent's name, game type, dictionary type, challenge rule, time settings, and rated/unrated toggle.](/images/uploads/screen-shot-2025-07-11-at-4.32.46-pm.png "Woogles Game Settings")
@@ -38,14 +37,12 @@ The **Initial minutes** slider has four ranges:
 
 The **Time setting** controls what happens when a player’s time has expired.  **Overtime** means that X number of extra minutes are allowed, with a -10 penalty for each minute (or partial minute) used. If a player’s overtime expires, they immediately lose the game. **Use increment** means that X number of seconds are added to your clock after each of your moves.
 
-
-
 #### SHOULD I PLAY RATED OR NOT RATED?
 
 The final option is whether the game is **Rated** or not. This is actually a very important setting to consider, because rated games are automatically monitored for proper play and an automatic suspension from playing rated games will take effect if these rules for proper play are not followed. You can read the Woogles Terms of Service, which explain what is not allowed, at <https://woogles.io/terms>. 
 
-Actions like repeatedly resigning or timing out from rated games, slow playing rated games, playing a high number of phonies in rated games, and other similar behaviours that can interfere with the accuracy of the rating system are not allowed. If you do these things only rarely (life happens), it will take a long time to reach the threshold of suspension. If you do them often, it will happen quickly. Note that a suspension from **Rated** games means that you can still play **Unrated** games. In fact, Unrated games (perhaps with Void challenge too) can be ideal when you are learning how to play. Also, if you want to play a relaxed game that you might not finish or want to play phonies for fun, you absolutely should play Unrated.  
+Actions like repeatedly resigning or timing out from rated games, slow playing rated games, playing a high number of phonies in rated games, and other similar behaviours that can interfere with the accuracy of the rating system are not allowed, including when playing a bot. If you do these things only rarely (life happens), it will take a long time to reach the threshold of suspension. If you do them often, it will happen quickly. Note that a suspension from **Rated** games means that you can still play **Unrated** games. In fact, Unrated games (perhaps with Void challenge too) can be ideal when you are learning how to play. Also, if you want to play a relaxed game that you might not finish or want to play phonies for fun, you absolutely should play Unrated.  
 
 Of course, a Rated game auto-suspension eventually ends (the end date/time is shown in the notification). However, if you continue to play inappropriate rated games, you will be auto-suspended again, and each subsequent suspension will be longer. 
 
-**The main point is to think carefully before playing a rated game! Treat it like a tournament game, meaning you will play it seriously and to the end to the best of your ability.**
+**The main point is to think carefully before playing a rated game! Treat it like a tournament game, meaning you will play it seriously, to the end, and to the best of your ability.**
