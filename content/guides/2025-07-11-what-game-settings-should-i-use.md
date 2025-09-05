@@ -16,7 +16,7 @@ When you start a game on [woogles.io](http://woogles.io), the first thing you se
 
 Some of the settings are easy. If you are matching a bot, you choose the bot you want to play from the dropdown menu. If you want to play a friend, you type in their [woogles.io](http://woogles.io) username.
 
-The **Game** type is generally Classic, but you can also choose the other options when you want to try something different.
+The **Game** type is generally Classic, but you can also choose the other options (available if you set them in the Advanced Settings) when you want to try something different.
 
 The **Dictionary**, meaning the list of words that are considered acceptable to play, can be chosen based on agreement between the players.
 
@@ -26,7 +26,7 @@ The **Challenge** rule relates to what happens when an invalid word is played (b
 * **5 points (10 points)** means that if you challenge a valid word, the person who played the word gets 5 (10) extra points, and you still get to take your turn. If it is an invalid word, the person who played it loses their turn.This challenge rule puts more responsibility on the player of the word to know it, since the penalty for challenging a good word is very low. This challenge rule may have the effect of minimizing the effect of bluffing. 
 * **Double** means that if you challenge a valid word, you lose your turn. If it is an invalid word, the person who played it loses their turn. This challenge rule puts more responsibility on the challenger to know their words, since the penalty for challenging is very high. This challenge rule allows the aspect of bluffing to be a greater part of the game.
 * **Single** means that you can freely challenge words.  If the play was valid, you don’t lose your turn. 
-* **Triple** means that whoever is wrong in the challenge (the player who played an invalid word or the player who challenged a valid word) immediately loses the game. This is generally just used between friends or in other special situations.
+* **Triple** means that whoever is wrong in the challenge (the player who played an invalid word or the player who challenged a valid word) immediately loses the game. This is generally just used between friends, when playing ultra-blitz, or in other special situations.
 
 The **Initial minutes** slider has four ranges:
 
