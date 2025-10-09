@@ -6,7 +6,7 @@ authors:
 description: We have received a large and generous donation for our Wooglevark 3000 tournament and plan to give it away to our player base as prizes.  We’ll be giving away at least $500/division (CSW and NWL) -maybe more, depending on registrations.
 tags:
   - tournaments
-cover: /images/uploads/wooglesmoney.png
+cover: /images/uploads/giveaway2.png
 ---
 Registration caps at 40 players per division. Entry fee of $20. Read the event flyer here: [https://drive.google.com/file/d/171wTBK2OcMXJe5n1-zDD8rugA0cR1UxL/view](https://drive.google.com/file/d/171wTBK2OcMXJe5n1-zDD8rugA0cR1UxL/view)
 
