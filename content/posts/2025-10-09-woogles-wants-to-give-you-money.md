@@ -14,6 +14,8 @@ Registration caps at 40 players per division. Entry fee of $20. Read the event 
 
 Sign up here: [https://tinyurl.com/wooglevark3000/](https://tinyurl.com/wooglevark3000/)
 
+**NOTE: Registration closes on October 21. Please send in your entry fees by then!**
+
 Tournament schedule:
 
 7 games Saturday October 25 and 7 games Sunday October 26, starting at 10 AM EDT (New York time). 20-minute timers, and there will be a meal break. We expect each day to take around 6 hours. Look at the flyer for more details.
