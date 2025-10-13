@@ -6,7 +6,7 @@ authors:
 description: We have received a large and generous donation for our Wooglevark 3000 tournament and plan to give it away to our player base as prizes.  We’ll be giving away at least $500/division (CSW and NWL) -maybe more, depending on registrations.
 tags:
   - tournaments
-cover: /images/uploads/giveaway2.png
+cover: /images/uploads/IMG_1502.jpg
 ---
 We have received a large and generous donation for our Wooglevark 3000 tournament and plan to give it away to our player base as prizes. We’ll be giving away at least $500/division (CSW and NWL) -maybe more, depending on registrations.
 
