@@ -20,15 +20,32 @@ Tournament schedule:
 
 7 games Saturday October 25 and 7 games Sunday October 26, starting at 10 AM EDT (New York time). 20-minute timers, and there will be a meal break. We expect each day to take around 6 hours. Look at the flyer for more details.
 
+**Tentative Schedule (All times in EDT, but conversion table below):**
+
+  | Event       | Time                 |
+  |-------------|----------------------|
+  | Game 1      | 10:00 AM - 10:45 AM  |
+  | Game 2      | 10:45 AM - 11:30 AM  |
+  | Game 3      | 11:30 AM - 12:15 PM  |
+  | *(I met you on my) Lunch Break (lololol)* | **Come back by 1:15 PM** |
+  | Game 4      | 1:15 PM - 2:00 PM    |
+  | Game 5      | 2:00 PM - 2:45 PM    |
+  | Game 6      | 2:45 PM - 3:30 PM    |
+  | Game 7      | 3:30 PM - 4:15 PM    |
+
 Approximately the top 1/4 of the field will make it to the Sunday games.
+Timezone conversions:
 
-10 AM EDT = 
 
-7 AM PDT
+  | Timezone                    | Time     |
+  |-----------------------------|----------|
+  | EDT (Eastern Daylight Time) | 10:00 AM |
+  | PDT (Pacific Daylight Time) | 7:00 AM  |
+  | GMT (Greenwich Mean Time)   | 2:00 PM  |
+  | TRT (Turkey)  |  5:00 PM |
+  | IST (India Standard Time)   | 7:30 PM  |
+  | SGT (Singapore Time)        | 10:00 PM |
 
-2 PM GMT
-
-7:30 PM IST (India)
 
 **Monitoring**
 
