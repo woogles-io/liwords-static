@@ -12,6 +12,8 @@ We have received a large and generous donation for our Wooglevark 3000 tournamen
 
 ![](/images/uploads/IMG_1502.jpg "Woogles gives away money")
 
+(Note: some people were upset about AI generated image usage so I'll try to hand-draw any pictures for future posts. I am not a professional artist.)
+
 Registration caps at 40 players per division. Entry fee of $20. Read the event flyer here: [https://drive.google.com/file/d/171wTBK2OcMXJe5n1-zDD8rugA0cR1UxL/view](https://drive.google.com/file/d/171wTBK2OcMXJe5n1-zDD8rugA0cR1UxL/view)
 
 Sign up here: [https://tinyurl.com/wooglevark3000/](https://tinyurl.com/wooglevark3000/)
