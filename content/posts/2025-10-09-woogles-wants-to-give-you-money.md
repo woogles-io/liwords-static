@@ -10,6 +10,8 @@ cover: /images/uploads/giveaway2.png
 ---
 We have received a large and generous donation for our Wooglevark 3000 tournament and plan to give it away to our player base as prizes. We’ll be giving away at least $500/division (CSW and NWL) -maybe more, depending on registrations.
 
+![](/images/uploads/IMG_1502.jpg "Woogles gives away money")
+
 Registration caps at 40 players per division. Entry fee of $20. Read the event flyer here: [https://drive.google.com/file/d/171wTBK2OcMXJe5n1-zDD8rugA0cR1UxL/view](https://drive.google.com/file/d/171wTBK2OcMXJe5n1-zDD8rugA0cR1UxL/view)
 
 Sign up here: [https://tinyurl.com/wooglevark3000/](https://tinyurl.com/wooglevark3000/)
@@ -27,7 +29,7 @@ Tournament schedule:
   | Game 1      | 10:00 AM - 10:45 AM  |
   | Game 2      | 10:45 AM - 11:30 AM  |
   | Game 3      | 11:30 AM - 12:15 PM  |
-  | *(I met you on my) Lunch Break (lololol)* | **Come back by 1:15 PM** |
+  | _(I met you on my) Lunch Break (lololol)_ | **Come back by 1:15 PM** |
   | Game 4      | 1:15 PM - 2:00 PM    |
   | Game 5      | 2:00 PM - 2:45 PM    |
   | Game 6      | 2:45 PM - 3:30 PM    |
@@ -35,7 +37,6 @@ Tournament schedule:
 
 Approximately the top 1/4 of the field will make it to the Sunday games.
 Timezone conversions:
-
 
   | Timezone                    | Time     |
   |-----------------------------|----------|
@@ -45,7 +46,6 @@ Timezone conversions:
   | TRT (Turkey)  |  5:00 PM |
   | IST (India Standard Time)   | 7:30 PM  |
   | SGT (Singapore Time)        | 10:00 PM |
-
 
 **Monitoring**
 
