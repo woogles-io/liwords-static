@@ -51,7 +51,7 @@ Timezone conversions:
 
 **Monitoring**
 
-You must have a webcam and a cell phone camera to play. More detailed instructions will be provided to registrants soon. Please stay tuned.
+You must have a webcam OR a cell phone camera to play. More detailed instructions will be provided to registrants soon. Please stay tuned.
 
 **More tournaments to come**
 
