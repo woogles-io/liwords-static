@@ -8,7 +8,7 @@ tags:
   - leagues
   - correspondence
   - omgwords
-cover: /images/leagues/woogles-trophy.png
+cover: /images/uploads/leaguewinners.png
 ---
 
 Season 1 of our correspondence leagues is in the books, and what a start it was.
@@ -28,7 +28,14 @@ NWL: alex (Alex Jaech), a strong expert who played a great season and earned the
 
 Great job, you two! 🏆
 
-<pictures of standings>
+CSW Division 1:
+![](/images/uploads/csw-winners.png)
+
+NWL:
+![](/images/uploads/nwl-winners.png)
+
+In CSW, congrats also to the following winners in Divisions 2 through 5: KongCH, zzz, AnitaCH, and Desertrain! You earned a promotion! (Sorry Alec/x, we can't promote you)
+
 
 ### What We Heard
 
@@ -42,6 +49,8 @@ rules on you mid-season, don't worry.)
 
 This may change in future seasons as the league stabilizes; we want to make sure that people make their way into their correct divisions more quickly :)
 
+### Registration for next season
+
 Come Play Season 2!
 
 Here's how to sign up:
@@ -50,7 +59,7 @@ Here's how to sign up:
 2. Click View & Register for Season 2 on the right-hand side (or scroll down on mobile)
 3. Hit Register for Season 2 near the top of the screen - you can scroll back up on mobile to find the button
 
-<picture>
+![](/images/uploads/register-leagues.png)
 
 If you get an error saying you need to be invited, please request an invite in the league chat. We may remove this requirement in the future. For now, almost everyone who's already played in Season 1 can come back without requesting another invite.
 
