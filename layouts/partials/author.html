@@ -29,7 +29,13 @@
   {{ $authorCount := len .Params.authors }} {{ range $index, $author :=
   .Params.authors }}
   <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+    {{ if eq $.template "single" }}
+    <a itemprop="url" href="https://woogles.io/profile/{{ $author }}" target="_blank" class="underline">
+      <span itemprop="name" class="font-medium">{{ $author }}</span>
+    </a>
+    {{ else }}
     <span itemprop="name" class="font-medium">{{ $author }}</span>
+    {{ end }}
   </span>
   {{- if lt $index (sub $authorCount 1) -}} {{- if eq (add $index 2)
   $authorCount }}
