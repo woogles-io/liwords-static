@@ -136,6 +136,8 @@ Here's how a full-day tournament might use broadcasts:
 
 ![The annotation editor view during a live game](/images/uploads/broadcasts-annotating.png)
 
+![The actual live game](/images/uploads/broadcasts-livegame.png)
+
 The whole thing is designed so directors and annotators can coordinate quickly between rounds without the stream going down or OBS needing to be reconfigured.
 
 ## Try It
