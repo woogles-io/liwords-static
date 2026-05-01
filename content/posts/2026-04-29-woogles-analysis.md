@@ -33,7 +33,7 @@ Given the players involved, most moves are unsurprisingly optimal. For one that 
 
 ![SUBOPTIMAL](/images/uploads/computer-analysis-3.png)
 
-You can see the best play of `WIT(H) D12` listed, and that the difference in win % between that play and Adam’s play of `(Z)ITI 13H` is a mere -0.4%, hence this is categorized as a “small” mistake. Note that if you want to see a similar detailed output of each move in Macondo, simply go to the turn in question and use the command
+You can see the best play of `13H (Z)ITI` listed, and that the difference in win % between that play and Adam’s play of `D12 WIT(H)` is a mere -0.4%, hence this is categorized as a “small” mistake. Note that if you want to see a similar detailed output of each move in Macondo, simply go to the turn in question and use the command
 
 `sim -plies 5 -stop 99`
 
