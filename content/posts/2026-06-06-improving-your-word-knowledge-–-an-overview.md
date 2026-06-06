@@ -41,6 +41,18 @@ _One thing to note at this point, is that learning just 2-3 letter words as a ne
 
 _A note about bingo probability:_ These graphs show the percentage of playable bingos available by probability from an enormous set of computer vs. computer games. You can see that, for 7s, about 50% of all playable bingos are in the top 4000, and 75% in the top 10,000. For 8s it's around 6000 and 12,500. Also note that this is the probability of a given rack, so this number is lower than the probability of a given word given ties, which is why they go to around 29k and 37k when there are \~34.5k and \~42.3k 7s and 8s in CSW24. In either case, this just goes to show the diminishing returns present when studying by probability, which is why focusing on the most likely bingos is so crucial. 
 
+--
+
+![](/images/uploads/Screen_Shot_2026-05-29_at_2.02.35_PM.webp)
+
+7s (above image)
+
+![](/images/uploads/Screen_Shot_2026-05-29_at_2.03.16_PM.webp)
+
+8s (above image)
+
+--
+
 You may find that at some point you get tired of doing cardbox quizzes. If this happens at any point, there is nothing wrong with taking a break. You may also wish to switch over to doing daily quizzes in a program like Aerolith at this point as you are more entering “maintenance mode.” This applies to all steps in this article.
 
 **Okay, I want to take my studying to the next level. What now?**
