@@ -39,15 +39,15 @@ _One thing to note at this point, is that learning just 2-3 letter words as a ne
 
 **5)        Study the highest probability bingos.** There are a couple ways to do this for 7s and 8s. You can either do a quiz by probability (i.e. probability 0-100 for the top 100) or study words with the top stems, like AEINST for 7s or AEINRST for 8s.
 
-_A note about bingo probability:_ These graphs show the probabily rank of played bingos from an enormous set of computer vs. computer games (thank you to Erickson Smith for these). You can see that, for 7s, about 50% of all playable bingos are in the top 4000, and 75% in the top 10,000. For 8s it's around 6000 and 12,500. Also note that this is the probability of a given rack, so this number is lower than the probability of a given word (that you would see in a program like Zyzzyva) given ties, which is why they go to around 29k and 37k when there are \~34.5k and \~42.3k 7s and 8s in CSW24. In either case, this just goes to show the diminishing returns present when studying by probability, which is why focusing on the most likely bingos is so crucial. 
+_A note about bingo probability:_ These graphs show the probabily rank of played bingos from an enormous set of computer vs. computer games (thank you to Erickson Smith for these). You can see that, for 7s, about 50% of all playable bingos are in the top 7000, and 75% in the top 14,000. For 8s it's around 7,500 and 15,000 (there are \~34.5k and \~42.3k 7s and 8s in CSW24). It is important to note that since you are often drawing to bingos that are higher in probability in the first place by keeping very bingo-prone leaves, this is a bit biased. But it does still show the diminishing returns present when studying by probability, which is why focusing on the most likely bingos first is so crucial. 
 
 --
 
-![](/images/uploads/Screen_Shot_2026-05-29_at_2.02.35_PM.webp)
+![](/images/uploads/sevens.webp)
 
 7s (above image)
 
-![](/images/uploads/Screen_Shot_2026-05-29_at_2.03.16_PM.webp)
+![](/images/uploads/eights.webp)
 
 8s (above image)
 
