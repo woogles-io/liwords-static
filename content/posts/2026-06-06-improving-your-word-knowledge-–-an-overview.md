@@ -27,7 +27,6 @@ Cardbox quizzes work by increasing the time until you see the alphagram each tim
 
 ![](/images/uploads/Picture1.png)
 
-
 The cardbox method for Anki is considered to be more efficient for learning (where each word has its own specific set of windows for each box based on the learning history), though I personally find Zyzzyva easier to use on the front end.
 
 An alternative option is to use something like Aerolith. There is a daily 3 letter word quiz with 50 alphagrams, and if you do this regularly you will end up seeing all the words over several months. However I would recognize starting with the cardbox quiz first, and then add in a program like Aerolith later.
