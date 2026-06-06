@@ -3,7 +3,7 @@ title: Improving your word knowledge – an overview
 date: 2026-06-05T22:25:00
 authors:
   - porch_microwave
-description: Describes techniques for studying words
+description: Word study tips and prioritization, with a focus on newer and intermediate players
 tags:
   - word study
 cover: /images/uploads/Picture1.png
