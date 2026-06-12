@@ -37,6 +37,8 @@ This is my personal suggestion for order, but like the rest of this guide, your 
 
 _As I mentioned, the biggest opportunity to make tracking errors is when the clock is stopped for any reason. In these cases, be sure to retrack tiles. If for example AHNT is played off, count the number of As, Hs, Ns and Ts on the board and make sure it matches up with the number crossed off on your sheet._
 
+![](/images/uploads/Screenshot%202026-06-09%20at%204.04.26%20PM.png)
+
 **Scoring plays**
 
 When scoring plays, make sure your scoresheet has enough space such that the scores you record can be written clearly. I have on many occasions had an improper score due to poor handwriting (see top image!). If you wish to analyze your game, you should also record your racks but keep them concealed from your opponent (more about this below). For the plays themselves, you can either write them down, or just take a picture of the board afterwards. Having a scrabble grid on your scoresheet to write down each play can also be helpful!
