@@ -47,19 +47,19 @@ When scoring plays, make sure your scoresheet has enough space such that the sco
 
 Ideally you should have a scoresheet with each letter printed out (again see picture). You want to do this in somewhat lighter ink. Why? This will make it more obvious when that letter is covered up. I also highly recommend crossing out letters with a dark marker vs. just pen or pencil (it may not be clear in the image, but I'm writing scores and racks with a blue pen, and crossing out letters played with a black fine tip marker). It can be very easy to make a mark over a letter and then be unsure later if it's tracked vs. just being an errant mark. Using a dark marker and fully covering the letter will make things much more obvious. 
 
-_Another thing I do in games is, once I get to the mid-late game, track tiles once they get on my rack vs. when they are played._ Obivously you have to be careful when doing this to not double count,  but knowing which tiles are not available to your opponent at this point is incredibly useful. For example if I have the Z on my rack, I know it can't hit a hotspot I'm worried about - pre-tracking here eliminates that concern. On my scoresheet the "X" next to ADEHIIS indicates that I started pre-tracking at this point (optional). A note about exchanging: if you feel you might need to exchange, do that first! Worst case scenario, if you pre-track and then exchange, circle the tiles you threw back in your tracking.
+Another thing I do in games is, once I get to the mid-late game, track tiles once they get on my rack vs. when they are played. Obivously you have to be careful when doing this to not double count,  but knowing which tiles are not available to your opponent at this point is incredibly useful. For example if I have the Z on my rack, I know it can't hit a hotspot I'm worried about - pre-tracking here eliminates that concern. On my scoresheet the "X" next to ADEHIIS indicates that I started pre-tracking at this point. A note about exchanging: if you feel you might need to exchange, do that first! Worst case scenario, if you pre-track and then exchange, circle the tiles you threw back in your tracking.
 
 **Vowel-consonant tallies**
 
 Another reason to pre-track is how much it may affect the vowel-consonant balance in the remaining pool For example if before pre-tracking there are nine vowels and nine consonants unseen, but my rack has six consonants and one vowel, then in reality the unseen pool is very vowel heavy! Information like that is incredibly important - in this case I would prioritize keeping my one vowel a lot more. 
 
-_I also recommend, later in the game (around the same time you start pre-tracking) to keep a tally of how many vowels and consonants are unseen._ In the picture above I did this very informally - writing the number of vowels and consonants unseen next to the two respective sections, and updating them after each turn. This is critical information that cannot easily be gleaned from just looking at what letters are not crossed off.
+I also recommend, later in the game (around the same time you start pre-tracking) to keep a tally of how many vowels and consonants are unseen. In the picture above I did this very informally - writing the number of vowels and consonants unseen next to the two respective sections, and updating them after each turn. This is critical information that cannot quickly be gleaned from just looking at what letters are not crossed off.
 
 In terms of the action order above (1-5), when pre-tracking you can add step 6 - place the new tiles on your rack _separately_ (to avoid double counting), then pre-track them on your scoresheet. Then you can combine them with the rest. 
 
 **In-game notes**
 
-For many of my turns, I wrote down various subanagrams of my racks, or plays they could make with available tiles on the board. I found this hugely helpful. You can see I put each turn on a separate line. I may even write down a phony hook (e.g. in one game CERATOID had been played, and immediately wrote down CERATOIDS\*) so that I would not play it, and also to remember to challenge if my opponent did. 
+For many of my turns, I wrote down various subanagrams of my racks, or plays they could make with available tiles on the board. I found this hugely helpful. You can see I put each turn on a separate line. I may even write down a phony hook (e.g. in one game CERATOID had been played, and immediately wrote down CERATOIDS\*) so that I do not try to play it, and also to remember to remind me to challenge if my opponent does. 
 
 In the picture above, I had ABEFORR - I immediatley noted I had FOREBEAR through an E, and I circled FORBEAR to indicate I wasn't 100% sure of it. It can also be helpful to just write down any 8s you see with a rack, as they may become playable after your opponent's next turn. 
 
@@ -67,7 +67,7 @@ I also highly recommend noting non-obvious hooks available as they come up. I di
 
 **Endgame notes**
 
-When the unseen pool is down to maybe 10 or less tiles, I write down each of those tiles in alphabetical order. In this case the last eight where AGHLNOTU. Then I cross out the tiles played in this list. This is helpful for looking for possible opponent bingos. After my opponent played the T, I crossed it out leaving AGHLNOU - no words here, and I noted that only one eight is made with this rack (S for SHOGUNAL) so I can make sure to block any such threats if available. I also wrote down a few subanagrams (like HANGUL) to help me identify possible plays my opponent could have on the board, including ones off whatever I played next.
+When the unseen pool is down to maybe 10 or less tiles, I write down each of those tiles in alphabetical order; in this case the last eight were AGHLNOTU. Then I cross out the tiles played in this list. This is helpful for looking for possible opponent bingos. After my opponent played the T, I crossed it out leaving AGHLNOU - no words here, and I noted that only one eight is made with this rack (S for SHOGUNAL) so I can make sure to block any such threats if available. I also wrote down a few subanagrams (like HANGUL) to help me identify possible plays my opponent could have on the board, including ones off whatever I played next.
 
 **Keeping this information private**
 
