@@ -35,7 +35,7 @@ This is my personal suggestion for order, but like the rest of this guide, your 
 
 5) Place the new tiles on your rack.
 
-_As I mentioned, the biggest opportunity to make tracking errors is when the clock is stopped for any reason. In these cases, be sure to retrack tiles. If for example AHNT is played off, count the number of each letter on the board and make sure it matches up with the number crossed off on your sheet._
+_As I mentioned, the biggest opportunity to make tracking errors is when the clock is stopped for any reason. In these cases, be sure to retrack tiles. If for example AHNT is played off, count the number of As, Hs, Ns and Ts on the board and make sure it matches up with the number crossed off on your sheet._
 
 **Scoring plays**
 
