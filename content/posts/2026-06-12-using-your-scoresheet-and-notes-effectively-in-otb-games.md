@@ -13,7 +13,7 @@ _Note: I play in the CSW24 lexicon, but these principles are 100% lexicon-neutra
 
 A topic that I think is rarely if ever discussed with regard to overall play is how you use your equipment during the game. By that I don't mean the board itself, but your scoresheets, tracking, and everything else you write down. It may seem pretty straightforward - write down racks, plays, scores and track, but there's actually a lot more to it than that.
 
-The first thing you should do is have a process for recording plays, tracking and drawing new tiles. Why is this so important? The main reason is to help with tracking errors. From what I have observed about my own play, this errors are usually to do interruptions in the game, for example score verifications or challenges. You may start to track, be interrupted by this, and then simply forget what you have tracked. There's nothing worse than having a close endgame and not having the remaining tiles correct, especially if you are running low on time!
+The first thing you should do is have a process for recording plays, tracking and drawing new tiles. Why is this so important? The main reason is to help with tracking errors. From what I have observed about my own play, these errors are almost always due to interruptions in the game, for example score verifications or challenges. You may start to track, be interrupted by this, and then simply forget what you have tracked. There's nothing worse than having a close endgame and not having the remaining tiles correct, especially if you are running low on time!
 
 This is my personal suggestion for order, but like the rest of this guide, your personal preferences may vary. What's most important is consistency. Note that these steps exclude plays where a turn is lost due to a successful challenge.
 
@@ -49,7 +49,7 @@ _Another thing I do in games is, once I get to the mid-late game, track tiles on
 
 **Vowel-consonant tallies**
 
-Another reason to pre-track is how much it may effect the vowel-consonant balance in the remaining pool For example if before pre-tracking there are nine vowels and nine consonants unseen, but my rack has six consonants and one vowel, then in reality the unseen pool is very vowel heavy! Information like that is incredibly important - in this case I would prioritize keeping my one vowel a lot more. 
+Another reason to pre-track is how much it may affect the vowel-consonant balance in the remaining pool For example if before pre-tracking there are nine vowels and nine consonants unseen, but my rack has six consonants and one vowel, then in reality the unseen pool is very vowel heavy! Information like that is incredibly important - in this case I would prioritize keeping my one vowel a lot more. 
 
 _I also recommend, later in the game (around the same time you start pre-tracking) to keep a tally of how many vowels and consonants are unseen._ In the picture above I did this very informally - writing the number of vowels and consonants unseen next to the two respective sections, and updating them after each turn. This is critical information that cannot easily be gleaned from just looking at what letters are not crossed off.
 
