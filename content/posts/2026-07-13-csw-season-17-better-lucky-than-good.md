@@ -1,6 +1,6 @@
 ---
 title: 'CSW Season 17: Better Lucky Than Good'
-date: 2026-07-12T18:18
+date: 2026-07-12T19:06
 authors:
   - Xadreco
 description: An analysis of some positions in season 17
@@ -40,7 +40,7 @@ This is actually Irfan's turn in our game. He's down 91 points with 2 in the bag
 
 Two plays immediately jump out from this position, being the only two available bingoes, C1 (R)IOTRIES 68 and B6 RIOTISE 63. Both of these plays are not likely going to allow Irfan to win. Any time I have the Z, I'll easily be scoring 20-60 points with it, easily outrunning any outplay he has. If I don't have the Z, even though I'll have all 1 point tiles with a lot of duplicates, I can block his highest scoring Z plays if necessary or underlap RHAPSODE to outrun Z plays. Just like in the earlier example, Macondo, because it's not solving the endgames and is instead making my top equity play, thinks I will just leave big Z plays open if I have a better score elsewhere on the board. This is likely the reason why it rates RIOTISE as even 6.1% to win. If Irfan draws EZ out of the bag, I'll have EIIILNN. Macondo assumes I'll play something like D1 (H)INNIE for 18 to score and offload tiles, which would cause me to easily lose to ZE for 68 on the triple. In reality, I can just play something like A8 NIL 19 which easily beats Irfan's best outplay of 15C ZE for 30 afterwards. This is likely the reason why (R)IOTRIES doesn't even show up on the top 5 best plays, it doesn't set up the threat of the Z bomb.
 
-Looking at the Macondo analyzer, there is a shocking play that Macondo thinks is best.
+Looking at the Macondo analyzer, there is a surprising play that Macondo thinks is best.
 
 ![Irfan macondo image 1](20260712-161549.png)
 
