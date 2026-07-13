@@ -1,6 +1,6 @@
 ---
 title: 'CSW Season 17: Better Lucky Than Good'
-date: 2026-07-12T19:06
+date: 2026-07-12T19:06:00
 authors:
   - Xadreco
 description: An analysis of some positions in season 17
