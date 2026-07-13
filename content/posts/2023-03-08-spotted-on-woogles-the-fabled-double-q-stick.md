@@ -1,6 +1,6 @@
 ---
 title: Spotted on Woogles - the fabled double-Q stick!
-date: 2023-03-08T04:27:43.762Z
+date: 2023-03-08T04:27:43
 authors:
   - cesar
 description: Did you know you can stick your opponent with two Qs in our ZOMGWords variant?

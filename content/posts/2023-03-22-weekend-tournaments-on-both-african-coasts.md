@@ -1,6 +1,6 @@
 ---
 title: Weekend tournaments on both African coasts
-date: 2023-03-22T00:40:06.315Z
+date: 2023-03-22T00:40:06
 authors:
   - cesar
 description: This past weekend we had Woogles tournaments in Kenya and Nigeria.

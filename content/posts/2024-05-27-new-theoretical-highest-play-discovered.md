@@ -1,6 +1,6 @@
 ---
 title: New theoretical highest play discovered!
-date: 2024-05-26T22:45:00.000Z
+date: 2024-05-26T22:45:00
 authors:
   - cesar
 description: A new play has been discovered that theoretically scores the most

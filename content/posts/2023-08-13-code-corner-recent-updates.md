@@ -1,6 +1,6 @@
 ---
 title: Code Corner - recent updates
-date: 2023-08-13T18:15:43.879Z
+date: 2023-08-13T18:15:43
 authors:
   - cesar
 description: We update the Woogles app regularly. We'll begin to post more about

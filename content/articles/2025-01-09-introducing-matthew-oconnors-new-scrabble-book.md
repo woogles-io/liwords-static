@@ -1,6 +1,6 @@
 ---
 title: Introducing Matthew O'Connor's new Scrabble book
-date: 2025-01-09T08:24:00.000Z
+date: 2025-01-09T08:24:00
 authors:
   - tiansa
 description: Master player Matthew O'Connor has written a fantastic book on

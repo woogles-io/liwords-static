@@ -1,6 +1,6 @@
 ---
 title: Running an IRL tournament with Woogles tournament mode
-date: 2023-04-02T12:58:28.018Z
+date: 2023-04-02T12:58:28
 authors:
   - cesar
 description: I ran a real-life tournament using Woogles tournament mode. While

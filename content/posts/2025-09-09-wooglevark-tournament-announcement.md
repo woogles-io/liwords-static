@@ -1,6 +1,6 @@
 ---
 title: Wooglevark Tournament Announcement!
-date: 2025-09-09T10:00:00.000-04:00
+date: 2025-09-09T10:00:00
 authors:
   - looby
 description: The Wooglevark tournament is coming, with an expected prize pool of

@@ -1,6 +1,6 @@
 ---
 title: OMGWords Scoring Guide
-date: 2024-12-23T23:43:00.000Z
+date: 2024-12-23T23:43:00
 authors:
   - Gaelyn
 description: This is a simple introduction to how scoring works in our favorite

@@ -1,6 +1,6 @@
 ---
 title: A director's tutorial for running a Woogles tournament
-date: 2023-11-24T19:53:30.825Z
+date: 2023-11-24T19:53:30
 authors:
   - rameez
 description: We have a couple of "how to run a tournament" guides on Woogles

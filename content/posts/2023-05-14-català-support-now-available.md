@@ -1,6 +1,6 @@
 ---
 title: Català support now available!
-date: 2023-05-14T01:03:35.879Z
+date: 2023-05-14T01:03:35
 authors:
   - cesar
 description: Woogles now supports playing in the Catalan language, using the

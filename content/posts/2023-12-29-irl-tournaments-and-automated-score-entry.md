@@ -1,6 +1,6 @@
 ---
 title: IRL Tournaments and automated score entry
-date: 2023-12-29
+date: 2023-12-29T00:00:00
 authors:
   - cesar
 description: I made improvements to the IRL tournament experience and ran a successful tournament in Montclair, NJ using Woogles tournament mode. Read more to see these new improvements.

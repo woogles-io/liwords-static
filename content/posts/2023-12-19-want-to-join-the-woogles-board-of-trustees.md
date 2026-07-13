@@ -1,6 +1,6 @@
 ---
 title: Want to join the Woogles Board of Trustees?
-date: 2023-12-19T00:21:51.142Z
+date: 2023-12-19T00:21:51
 authors:
   - conrad
   - looby

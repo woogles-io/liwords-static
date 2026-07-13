@@ -1,6 +1,6 @@
 ---
 title: Ottawa Scrabble Club's Hybrid Tournament
-date: 2024-02-04
+date: 2024-02-04T00:00:00
 authors:
   - KoeRob
 description: On Feb 3, OSC held our second hybrid house tournament and potluck at clubmate Gerda's house. For the first time, I tried out the woogles IRL tournament management software, which worked out great, with player scorecards that included personalized QR codes for seamless and ultra efficient electronic score entry.

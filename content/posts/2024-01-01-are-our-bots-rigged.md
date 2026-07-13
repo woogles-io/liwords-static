@@ -1,6 +1,6 @@
 ---
 title: Are our bots rigged?
-date: 2024-01-01T22:42:51.060Z
+date: 2024-01-01T22:42:51
 authors:
   - cesar
 description: Let’s attempt to dispel some common notions about our bots, and

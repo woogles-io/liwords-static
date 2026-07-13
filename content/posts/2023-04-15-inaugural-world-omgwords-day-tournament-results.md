@@ -1,6 +1,6 @@
 ---
 title: Inaugural World OMGWords Day tournament results
-date: 2023-04-15T17:05:20.143Z
+date: 2023-04-15T17:05:20
 authors:
   - cesar
 description: Twelve intrepid Wooglers played the inaugural World OMGWords Day

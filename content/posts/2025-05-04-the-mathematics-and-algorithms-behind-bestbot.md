@@ -1,6 +1,6 @@
 ---
 title: The Mathematics and Algorithms behind BestBot
-date: 2025-05-04T14:54:00.000Z
+date: 2025-05-04T14:54:00
 authors:
   - cesar
 description: Read more about how BestBot works and how it achieves its great performance!

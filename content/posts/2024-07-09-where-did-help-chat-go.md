@@ -1,6 +1,6 @@
 ---
 title: Where did help chat go?
-date: 2024-07-09T11:22:00.000Z
+date: 2024-07-09T11:22:00
 authors:
   - cesar
 description: Help chat is no more, but there are many options for you to chat

@@ -1,6 +1,6 @@
 ---
 title: "The OMGWords Endgame: Why More Plies Sometimes Reveal the True Best Move"
-date: 2024-09-07T00:03:00.000Z
+date: 2024-09-07T00:03:00
 authors:
   - cesar
 description: We dive into an OMGWords endgame to figure out why we have some

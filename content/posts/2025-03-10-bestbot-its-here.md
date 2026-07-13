@@ -1,6 +1,6 @@
 ---
 title: "BestBot: It's here!!"
-date: 2025-03-10T10:00:00.000Z
+date: 2025-03-10T10:00:00
 authors:
   - RobbinSteif
 description: BestBot is here! This new AI-driven bot outperforms HastyBot and

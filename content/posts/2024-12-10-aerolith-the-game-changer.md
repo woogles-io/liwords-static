@@ -1,6 +1,6 @@
 ---
 title: Aerolith - The Game Changer
-date: 2024-12-10T00:00:00.000Z
+date: 2024-12-10T00:00:00
 authors:
   - rameez
 description: Word learning is as important as playing word games. Learn how to

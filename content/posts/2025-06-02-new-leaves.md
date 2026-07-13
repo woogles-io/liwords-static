@@ -1,6 +1,6 @@
 ---
 title: Wake up babe, new leaves just dropped
-date: 2025-06-02T09:00:00.000Z
+date: 2025-06-02T09:00:00
 authors:
   - cesar
 description: We recently updated the leaves for both NWL23 and CSW24, with more to come in the future. Read more about our new, more accurate methodology here!

@@ -1,6 +1,6 @@
 ---
 title: Using Woogles for IRL Tournaments
-date: 2025-07-11T16:10:00.000Z
+date: 2025-07-11T16:10:00
 authors:
   - penumbra
 description: A guide to using the woogles.io tournament functionality for
