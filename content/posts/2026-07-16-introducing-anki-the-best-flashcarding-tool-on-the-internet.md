@@ -2,7 +2,7 @@
 title: Introducing Anki, the best flashcarding tool on the internet
 date: 2026-07-16T14:28:00
 authors:
-  - Nits Chagti
+  - nchagti
 description: Discussion of how to use Anki to study words
 tags:
   - word study
