@@ -21,7 +21,7 @@ Why Anki, you might ask? There's three major reasons: it has the best of our mos
 
 ○      Like Zyzzyva, Anki lets you **study offline**, without an internet connection, on your desktop and phone, and lets you **sync your progress** across devices.
 
-○      As on Zyzzyva desktop, Anki allows you to search for **hyperspecific queries**. So, if you wanted to study the top 10,0000 probable 7s that have two anagrams, are nouns, and only have 2 vowels, you could search for—and study—just that.
+○      As on Zyzzyva desktop, Anki allows you to search for **hyperspecific queries**. So, if you wanted to study the top 10,000 probable 7s that have two anagrams, are nouns, and only have 2 vowels, you could search for—and study—just that.
 
 ●      Xerafin:
 
