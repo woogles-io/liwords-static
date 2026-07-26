@@ -13,7 +13,7 @@ _Note - the first part of this article is about my Albany tournament, and the se
 
 I was very much looking forward to the most recent edition of the Albany July 4th tournament. For CSW players, this is absolutely the toughest field for any event in North America, and outside of Causeway, possibly the hardest in the world. This is mainly due to Bob Linn's generous donations to the prize fund, which draw many of the top players in the world. In fact, six of the top 20 in WESPA were present - Nigel Richards, Adam Logan, Wellington Jighere, Alec Sjoholm, Dave Wiegand, and Josh Castellano.
 
-I had been on a pretty long hiatus since 2020, having only played the CoCo Championship in Seattle in fall 2023, the Word Cup in summer 2025, and NOLA in January 2026. I started studying quite intensely again in the spring of 2025, and was happy with my performance in those last two tourneys, all things considered. I earned my second master norm at NOLA, going from 1793 to 1827. Thus  I came in to Albany with a WESPA rating in the low 1800s, needing to win only 40% of my games and finish above 1800 to get my WESPA master title. 
+I had been on a pretty long hiatus since 2020, having only played the CoCo Championship in Seattle in fall 2023, the Word Cup in summer 2025, and NOLA in January 2026. I started studying quite intensely again in the spring of 2025, and was happy with my performance in those last two tourneys, all things considered. I earned my second master norm at NOLA, going from 1793 to 1827. Thus  I came in to Albany with a WESPA rating in the low 1800s, needing to win only 40% of my games and finish above 1800 to get my WESPA master title. I felt this was definitely doable. 
 
 **_Part 1 - The Tournament_**
 
