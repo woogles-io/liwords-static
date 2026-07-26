@@ -3,7 +3,7 @@ title: Dealing with the tournament from hell
 date: 2026-07-25T18:39:00
 authors:
   - porch_microwave
-description: dealing with a bad tournament
+description: How to deal with a bad tournament, stay composed, and still have fun!
 tags:
   - psychology
 cover: /images/uploads/t2-chainlink-fence-1775660168.jpg
