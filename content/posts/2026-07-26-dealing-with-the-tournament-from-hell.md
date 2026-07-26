@@ -75,4 +75,6 @@ _2) If possible, combine your tournament with a visit to a nearby area._ When I 
 
 _3) Remember why you went to the tournament._ In the end, we all play these events because we enjoy them, and to see others who enjoy the game so much as well. And with so much luck involved, pinning your enjoyment and how you do isn't helpful. In the SPC, despite a good start I was 0-7 on day 2. But top expert and former world champion Wellington Jighere was 1-6 on day 2, and Alec Sjoholm was 1-6 on day 1! Remember in each tournament, no matter how strong the field, half the players are losing in any given game. 
 
-I know these tips are much easier said than done! But I hope they help you in some way. As for me? I've already signed up for three more tournaments, and next July 4th, I guarantee you I'll be back in Albany.
+_4) Reflect on the role luck plays in the game._ One good way to assess this is number of blanks drawn - something well below 50% indicates unfortunate drawing. For me, the scoring averages told a similar story. Look at how you've done in other tournaments to compare, and realize sometimes these things just happen. 
+
+I know these tips are much easier said than done! But I hope they help you in some way. And no matter how bad a game (or games) get, there's always the next one. As for me? I've already signed up for three more tournaments, and next July 4th, I guarantee you I'll be back in Albany.
