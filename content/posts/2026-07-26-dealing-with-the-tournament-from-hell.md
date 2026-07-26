@@ -27,7 +27,7 @@ I then lost another very frustrating game to Chris Lipe at the bottom table (whe
 
 **Day 2**
 
-Day 2 was, somehow, even worse. I do not remember many details of the earlier games, but in one game, I had my opponents rack wrong by one tile (I thought it was AINORSY but it was AEINORS) which gave him an out bingo to win. In my loss against Mark, I, for the first time in this event, lost a turn, however this was at the end and more a result of frustration than anything else. In my last game, my opponent had both blanks and played I believe five high probability bingos. 
+Day 2 was, somehow, even worse. I do not remember many details of the earlier games, but in one game, I had my opponents rack wrong by one tile (I thought it was AINORSY but it was AEINORS) which gave him an out bingo to win. I missed an out bingo in one game where I had to make A(WASH) in the process. In my loss against Mark, I, for the first time in this event, lost a turn, however this was at the end and more a result of frustration than anything else. In my last game, my opponent had both blanks and played I believe five high probability bingos. 
 
 ![](/images/uploads/Screenshot%202026-07-25%20at%206.56.15%20PM.png)
 
