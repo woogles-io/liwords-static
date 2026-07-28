@@ -73,7 +73,7 @@ _1) Engage in activities you enjoy that aren't Scrabble!_ For me, this means soc
 
 _2) If possible, combine your tournament with a visit to a nearby area._ When I went to my two WSCs, I combined them with a trip to other parts of Europe. After Albany, I visited NYC for a few days and had a great time! 
 
-_3) Remember why you went to the tournament._ In the end, we all play these events because we enjoy them, and to see others who enjoy the game so much as well. And with so much luck involved, pinning your enjoyment and how you do isn't helpful. In the SPC, despite a good start I was 0-7 on day 2. But top expert and former world champion Wellington Jighere was 1-6 on day 2, and Alec Sjoholm was 1-6 on day 1! Remember in each tournament, no matter how strong the field, half the players are losing in any given game. 
+_3) Remember why you went to the tournament._ In the end, we all play these events because we enjoy them, and to see others who enjoy the game so much as well. And with so much luck involved, pinning your enjoyment and how you do isn't helpful. In the SPC, despite a good start I was 0-7 on day 2. But top expert and former world champion Wellington Jighere was 1-6 on day 3, and Alec Sjoholm was 1-6 on day 1! Remember in each tournament, no matter how strong the field, half the players are losing in any given game. 
 
 _4) Reflect on the role luck plays in the game._ One good way to assess this is number of blanks drawn - something well below 50% indicates unfortunate drawing. For me, the scoring averages told a similar story. Look at how you've done in other tournaments to compare, and realize sometimes these things just happen. 
 
