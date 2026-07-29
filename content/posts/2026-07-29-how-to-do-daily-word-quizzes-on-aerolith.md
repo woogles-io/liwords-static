@@ -1,5 +1,5 @@
 ---
-title: How to do daily word quizzes on Aerolith
+title: Improving and maintaining your word knowledge with daily Aerolith quizzes
 date: 2026-07-29T18:07:00
 authors:
   - porch_microwave
