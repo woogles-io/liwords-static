@@ -9,9 +9,9 @@ tags:
 cover: /images/uploads/Screenshot 2026-07-29 at 6.07.00 PM.png
 ---
 
-In previous word study posts, we gave an overview of the tools available. We also discussed Anki specifically, and now we will turn to the popular word study program Aerolith. Specifically WordWalls, which can be found at [https://aerolith.org/wordwalls/](https://aerolith.org/wordwalls/). After setting up an account, you will find yourself on the screen shown above. 
+In a [recent post](https://blog.woogles.io/admin/#/collections/posts/entries/2026-06-06-improving-your-word-knowledge-%E2%80%93-an-overview) we introduced a series on word study. We also [discussed Anki](https://blog.woogles.io/admin/#/collections/posts/entries/2026-07-16-introducing-anki-the-best-flashcarding-tool-on-the-internet) specifically, and now we will turn to a more in-depth discussion of the popular word study program Aerolith. First introduced in the 2000s, it has been a regular part of my study routine since I first started playing in 2008. Specifically we will discuss WordWalls, which can be found at [https://aerolith.org/wordwalls/](https://aerolith.org/wordwalls/). After setting up an account, you will find yourself on the screen shown above. 
 
-For this guide, we will be talking specifically about the "Single-Player Challenges" tab. Other parts of Aerolith will be discussed later. 
+For this guide, we will be talking specifically about the "Single-Player Challenges" tab. Other parts of Aerolith will be discussed in later posts.
 
 On the left side, you can see the Lexicon menu, which you can change as needed. For the daily challenges you cannot change the time or questions as these are fixed for the purposes of the leaderboard (right side). There are several different quiz types available each day:
 
