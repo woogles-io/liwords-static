@@ -13,64 +13,29 @@ tags:
 cover: /images/uploads/inverse thumb.png
 ---
 
-<nav class="toc">
-
-<h2>Table of Contents</h2>
-
-<ul>
-
-<li><a href="#section-1">Prologue</a></li>
-
-<li><a href="#section-2">Part 1: The Games</a></li>
-
-<li><a href="#section-3">Part 2: The Race for FIrst</a></li>
-
-<li><a href="#section-4">Afterword</a></li>
-
-<li><a href="#section-5">Appendix</a></li>
-
-</ul>
-
-</nav>
-
-TOC (for the article)
-
-- Prologue
-- Part 1: The Games
-    - Pre-endgames
-        - Exhibit A
-        - Exhibit B - Not Good Enough
-    - Hope Scrabble
-    - MI Atrocity
-    - Mistake, Mistake, Mistake!!!!
-- Part 2: The Race for First
-    - The Decider
-- Afterword
-- Appendix
-
 _Note: This blog post is split into 2 parts: 1) analysis of some interesting games, and 2) the race to first._
 
 _Fair warning though: This'll be a long one!_
 
 _<br>_
 
-**<h2 id="#section-1">Prologue</h2>**
+### **Prologue**
 
-<p>Going into Season 20, I wasn't expecting anything particularly special. Other than a quick look at the 6-vowel 9s, I'd barely done any word study leading up to the season. Plus, I had a rather mediocre result in Season 19, finishing 9th with a 7-7 -185 record, just barely scraping by. 
+Going into Season 20, I wasn't expecting anything particularly special. Other than a quick look at the 6-vowel 9s, I'd barely done any word study leading up to the season. Plus, I had a rather mediocre result in Season 19, finishing 9th with a 7-7 -185 record, just barely scraping by. 
 
 However, this season, something changed. Somehow, everything was going my way.
 
-This is the season I finally won.</p>
+This is the season I finally won.
 
 <br><br>
 
-**Part 1: The Games**
+### **Part 1: The Games**
 
-**Pre-endgames**
+#### **Pre-endgames**
 
 <br>
 
-**Exhibit A**
+##### **Exhibit A**
 
 In this position, I'm down 14 against jellomochas (Alec Sjöholm), holding this rack.
 
@@ -102,7 +67,7 @@ Unfortunately, after making a large mistake the previous turn, I managed to foll
 
 <br>
 
-**Exhibit B - Not Good Enough**
+##### **Exhibit B - Not Good Enough**
 
 In this position, I'm up 64 against Xadreco, holding this rack.
 
@@ -126,7 +91,7 @@ What I found most unfortunate was that I had played almost perfectly prior to AV
 
 <br>
 
-**Hope Scrabble**
+#### **Hope Scrabble**
 
 In this position, I'm down 81 against MGI (Lukeman Owolabi) and running out of time.
 
@@ -150,7 +115,7 @@ In the actual game, Lukeman wisely blocked UNREASON with 3F (U)M, securing him t
 
 <br><br>
 
-**MI Atrocity**
+#### **MI Atrocity**
 
 I'm in a tough position this turn against tonyleah, down 1 point and holding this rack.
 
@@ -188,7 +153,7 @@ This was unfortunately my worst-played game this season, with an awful 5.4 MI. M
 
 <br>
 
-**Mistake, Mistake, Mistake!!!!**
+#### **Mistake, Mistake, Mistake!!!!**
 
 I'm down 67 against shafiquet, holding this rack. 
 
@@ -248,7 +213,7 @@ It was starting to feel like this pattern of getting away with awful mistakes wo
 
 <br><br>
 
-**Part 2: The Race for First**
+### **Part 2: The Race for First**
 
 Three days into the season, kfraley was leading with an 8-3 +750 record. I was right behind him with my 7-3 +289 record, followed by jellomochas (6-2 +240) in third. In order to win the season, I needed to win my remaining 4 games, while both kfraley and jellomochas had to lose 1 or more games. If both kfraley and I won our remaining games, he'd likely leapfrog me in the standings as he has a way better spread tiebreaker. As I was leading in all my remaining games, all I could do now was pray that both of them would lose games.
 
@@ -261,7 +226,7 @@ At this point, it was really just the three of us with three losses. All that ma
 Since my game against ather was practically over (100+ pt lead), my game against gharp started to feel like a “decider”, almost. Even if kfraley and jellomochas lost another game after this, if I lost to gharp, kfraley would once again have more than enough spread to overtake me. 
 <br>
 
-**The Decider**
+#### **The Decider**
 
 My game against gharp starts off relatively uneventful, but I am able to take a 43 point lead after a few turns. After my D7 B(U)LLER# for 16 (which was a medium-sized mistake), padding my lead to 59, I saw my possible bingo of DORADOS. After he bingoes with 13A CRISTAE for 79, I do indeed get down DORADOS to stay one step ahead, for now.
 
@@ -327,7 +292,7 @@ It felt… almost surreal. Yet, I did it. I was overcome by joy, to say the leas
 
 <br><br>
 
-**Afterword**
+### **Afterword**
 
 I never expected myself to be writing this.
 
@@ -347,7 +312,7 @@ I guess not.
 
 <br><br>
 
-**Appendix (stats!)**
+### **Appendix (stats!)**
 
 Let's take a look at the stats though.
 
