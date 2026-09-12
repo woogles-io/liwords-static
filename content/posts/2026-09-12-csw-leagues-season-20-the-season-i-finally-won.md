@@ -56,11 +56,11 @@ _<br>_
 
 **<h2 id="#section-1">Prologue</h2>**
 
-Going into Season 20, I wasn't expecting anything particularly special. Other than a quick look at the 6-vowel 9s, I'd barely done any word study leading up to the season. Plus, I had a rather mediocre result in Season 19, finishing 9th with a 7-7 -185 record, just barely scraping by. 
+<p>Going into Season 20, I wasn't expecting anything particularly special. Other than a quick look at the 6-vowel 9s, I'd barely done any word study leading up to the season. Plus, I had a rather mediocre result in Season 19, finishing 9th with a 7-7 -185 record, just barely scraping by. 
 
 However, this season, something changed. Somehow, everything was going my way.
 
-This is the season I finally won.
+This is the season I finally won.</p>
 
 <br><br>
 
