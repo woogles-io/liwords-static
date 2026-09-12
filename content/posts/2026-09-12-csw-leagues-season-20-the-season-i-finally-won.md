@@ -13,6 +13,26 @@ tags:
 cover: /images/uploads/inverse thumb.png
 ---
 
+<nav class="toc">
+
+<h2>Table of Contents</h2>
+
+<ul>
+
+<li><a href="#section-1">Prologue</a></li>
+
+<li><a href="#section-2">Part 1: The Games</a></li>
+
+<li><a href="#section-3">Part 2: The Race for FIrst</a></li>
+
+<li><a href="#section-4">Afterword</a></li>
+
+<li><a href="#section-5">Appendix</a></li>
+
+</ul>
+
+</nav>
+
 TOC (for the article)
 
 - Prologue
@@ -34,7 +54,7 @@ _Fair warning though: This'll be a long one!_
 
 _<br>_
 
-**Prologue**
+**<h2 id="#section-1">Prologue</h2>**
 
 Going into Season 20, I wasn't expecting anything particularly special. Other than a quick look at the 6-vowel 9s, I'd barely done any word study leading up to the season. Plus, I had a rather mediocre result in Season 19, finishing 9th with a 7-7 -185 record, just barely scraping by. 
 
@@ -85,6 +105,8 @@ Unfortunately, after making a large mistake the previous turn, I managed to foll
 **Exhibit B - Not Good Enough**
 
 In this position, I'm up 64 against Xadreco, holding this rack.
+
+![](/images/uploads/image31.jpg)
 
 Thinking I've pretty much iced this game, I played H1 AVI(S)O for 24 without much thought. While this play still wins about 95.9% according to Macondo, it actually was a medium-sized mistake.
 
@@ -342,7 +364,5 @@ Lost endgame points: too high (count them yourself if you're interested…)
 1.29 blanks per game is rather absurd. During many of these games, it genuinely felt that I'd play a suboptimal move, only to be bailed out by the blank. My MiAV of 2.9 doesn't help my case much. While it's rather solid, it's still a far cry from my 2.4 in Season 18. Many of these mistakes came either in the pre-endgame or endgame, and I was lucky they mostly didn't affect the outcome. While I'm quite pleased that I found most of my available bingoes, most of them were either high-prob or common words, and quite a few of them were suboptimal anyway. As for my lost endgame points…? Well let's just say some things are better left untouched. 
 
 I was, by no means, the best player there. Yet, I won.
-
-![](/images/uploads/image35.png)
 
 But as they say, sometimes, it's better to be lucky than good.
