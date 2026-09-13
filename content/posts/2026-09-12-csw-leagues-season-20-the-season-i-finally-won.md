@@ -171,6 +171,8 @@ Two plays immediately came to mind: N9 EMOTER and D9 Q(U)EME#. One of them turne
 
 After QUEME#, shafiquet bingoes with TIpUNAS# to go up by 33.
 
+![](/images/uploads/image17.jpg)
+
 Here, I made another bad play: O12 RORT#. There's not much to say here, this was just a large board vision oversight on my part. Perhaps it was from me playing too fast, but I completely missed the parallel plays to QUEME# on column E. In fact, in this position I had the very savvy E9 I(N)ROAD for 35, winning 9.0% more often than RORT#, my third straight large mistake.
 
 And believe it or not, we're not done here! I missed another play in the same spot next turn, compounding a total of 4 MI in just 4 turns. 
