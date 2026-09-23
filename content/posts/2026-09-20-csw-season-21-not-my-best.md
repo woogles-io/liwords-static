@@ -38,7 +38,7 @@ Unfortunately, on my 5th turn, I could no longer play any QUENA# related words, 
 
 **Game 2: My Best Endgame Ever?** 
 
-tonyleah just emptied the bag with the high scoring LUZ# for 54, and I'm some deep trouble heading into this endgame.
+tonyleah just emptied the bag with the high scoring LUZ# for 54, and I'm in some deep trouble heading into this endgame.
 
 ![tonyleah bp1](/images/uploads/20260920-123538.png)
 
@@ -54,10 +54,10 @@ I still need to be careful here. If I carelessly play something like my top scor
 
 <details><summary>There was also another winning sequence that also wins by 1 point:</summary>
 
-5B F(O)V(E)A 11, blocking the best Q spot
-7K (T)AX 37
-H12 (BE)TH 27, sticking tonyleah with the Q
-D3 PA(V)# 20
+5B F(O)V(E)A 11, blocking the best Q spot <br>
+7K (T)AX 37 <br>
+H12 (BE)TH 27, sticking tonyleah with the Q <br>
+D3 PA(V)# 20 <br>
 M6 O(XI)C 16 +IQ, final score 491-490 </details>
 
 <br>
