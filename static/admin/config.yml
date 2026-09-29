@@ -4,7 +4,7 @@ backend:
   repo: woogles-io/liwords-static
   base_url: https://blog.woogles.io
   auth_endpoint: /api/auth
-  auth_scope: public_repo
+  auth_scope: public_repo # Sveltia only accepts repo/public_repo here; the scope actually requested (incl. read:org) is set in functions/api/auth.js
 
 # publish_mode: editorial_workflow
 media_folder: "static/images/uploads"
