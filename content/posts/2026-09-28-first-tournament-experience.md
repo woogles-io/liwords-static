@@ -53,7 +53,7 @@ I check the pairings, my first opponent? Alec Sjoholm
 
 **Game 1: “Oh, shit.”**
 
-![Game 1](game1.gif)
+![Game 1](/images/uploads/game1.gif)
 <br>
 
 *“You gain strength, courage and confidence by every experience in which you really stop to look fear in the face. You are able to say to yourself, ‘I have lived through this horror. I can take the next thing that comes along.’ You must do the thing you think you cannot do.”*
@@ -78,7 +78,7 @@ I pull out my phone to check if FROGGERY is good. It is.
 
 **Game 2: Time Pressure**
 
-![Game 2](game2.gif)
+![Game 2](/images/uploads/game2.gif)
 <br>
 
 -“All we have to decide is what to do with the time that is given us.”
@@ -95,7 +95,7 @@ Amazingly, my opponent questioned me about MOLlIES rather than DISCOEY*, I showe
 
 **Game 3: LIONeSE***
 
-![Game 3](game3.gif)
+![Game 3](/images/uploads/game3.gif)
 <br>
 
 -“Take it slow, it'll work itself out fine. All we need is just a little patience"
@@ -120,7 +120,7 @@ After game 3, it’s time for lunch, so I shake off the rough start and focus on
 
 **Game 4: “That’s not supposed to happen”**
 
-![Game 4](game4.gif)
+![Game 4](/images/uploads/game4.gif)
 <br>
 
 *“Hobbes: Do you think there's a God?
@@ -162,7 +162,7 @@ There’s no smoking signs everywhere, that’s lame as Hell.
 
 **Game 6: Study Works**
 
-![Game 6](game6.gif)
+![Game 6](/images/uploads/game6.gif)
 <br>
 
 *"Never give up. Trust your instincts"*
@@ -187,7 +187,7 @@ My next couple of moves are tougher, but I don’t spend too much time on them t
 
 **Game 7: “That son of a bitch has the P”**
 
-![Game 7](game7.gif)
+![Game 7](/images/uploads/game7.gif)
 <br>
 
 *“So well thy words become thee as thy wounds; They smack of honor both.”*
@@ -218,7 +218,7 @@ Of day 1. There’s more games tomorrow.
 
 **Game 8: No Rest For the Wicked**
 
-![Game 8](game8.gif)
+![Game 8](/images/uploads/game8.gif)
 <br>
 
 *“Every new beginning comes from some other beginning’s end.”*
@@ -241,7 +241,7 @@ Hanging around to chat with some of the other players is fun as well, and Dean e
 
 I collect up my things and make the pitchblack drive home to feed my cats, and prepare for the next day before bed.
 
-![Day 2 begins](dawn2.jpg)
+![Day 2 begins](/images/uploads/dawn2.jpg)
 <br>
 
 <br>
@@ -260,7 +260,7 @@ I put on pants, chug an energy drink, grab another couple for the road, and make
 
 **Game 9: Hero to ZERO**
 
-![Game 9](game9.gif)
+![Game 9](/images/uploads/game9.gif)
 <br>
 
 *"Difficult to see, always in motion is the future."*
@@ -283,7 +283,7 @@ As my clock is dwindling, I ultimately make the call to just play H(I) for 9, pr
 
 **Game 10: Pride Cometh**
 
-![Game 10](game10.gif)
+![Game 10](/images/uploads/game10.gif)
 <br>
 
 *“Pleasant words are as an honeycomb, sweet to the soul, and health to the bones.”*
@@ -304,7 +304,7 @@ With 2 tiles left in the bag, and a board that is completely shut down for bingo
 
 **Game 11: The Fall**
 
-![Game 11](game11.gif)
+![Game 11](/images/uploads/game11.gif)
 <br>
 
 *“I believe, in life, you always get a second chance.”*
@@ -329,7 +329,7 @@ It’s time for lunch, and there’s fixings for sandwiches. By the time I get t
 
 **Game 12: My brain has fallen out of my skull and I’m playing with my ass**
 
-![Game 12](game12.gif)
+![Game 12](/images/uploads/game12.gif)
 <br>
 
 *“My brain has fallen out of my skull, and I’m playing with my ass”*
@@ -354,7 +354,7 @@ I chat with Eric a bit after the game and talk about how unprepared I was for th
 
 **Game 13: It’s Gamey**
 
-![Game 13](game13.gif)
+![Game 13](/images/uploads/game13.gif)
 <br>
 
 *"Godless? Why, Aeron, I am the godliest man ever to raise sail! You serve one god, Damphair, but I have served ten thousand. From Ib to Asshai, when men see my sails, they pray.”*
@@ -381,7 +381,7 @@ My face sank immediately, another miss in the same vein as NOVELISE. I absolutel
 
 **Game 14: Rocky II**
 
-![Game 14](game14.gif)
+![Game 14](/images/uploads/game14.gif)
 <br>
 
 *“It ain't about how hard you hit. It's about how hard you can get hit and keep moving forward; how much you can take and keep moving forward. That's how winning is done!"*
