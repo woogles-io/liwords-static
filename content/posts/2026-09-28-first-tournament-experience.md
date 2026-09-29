@@ -1,7 +1,8 @@
 ---
 title: 'MY VERY FIRST SCRABBLE TOURNAMENT'
+date: 2026-09-28T21:12:00
 authors:
-  - Styles Rockman
+  - stylesrockman
 description: "A summary of a first timer's tournament experience"
 tags:
   - tournament
