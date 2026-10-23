@@ -32,4 +32,6 @@ Interested? Fill out our application form:
 
 <https://docs.google.com/forms/d/e/1FAIpQLSfS2J6XskWhMgrpXk0R5yAPblxMaxNtJ_sKa3hQryY_fYF2Cw/viewform>
 
+**Note:** The application deadline is November 18, 2026.
+
 — The Woogles Team
