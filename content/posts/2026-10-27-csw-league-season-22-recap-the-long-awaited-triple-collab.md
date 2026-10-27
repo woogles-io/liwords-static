@@ -77,7 +77,7 @@ Without further ado, please sit back, grab a snack, and enjoy this long read we 
 
 <p style="color: crimson;">The top equity play is 12K (O)HO for 27, keeping good bingo tiles, but this would be a decent sized error on this board. Given my big lead, the only thing I need to be worried about is Kheiron landing a massive bingo to the G in sOUPING, and with multiple Is and an N unseen, there are many combinations he can have using multiple 3+ pointers that could score 90 to as much as 143 points, if he one of the multiple words in the unseen pool ending in -ZING, such as FRIEZIN(G)#. Good bingo tiles won’t do me much good on this board either way, without the last S to hook NEB or IN to play into the G. </p>
 
-<p style="color: crimson;">	With this in mind, I went with the play of L12 H(A)LO for 26. This play scores nearly as well as (O)HO, but most importantly takes out the bingo line to the G, while offering very few bingoes through the O, the highest scoring of which only score up to 86 points (such as IMPRIS(O)N)), which will still leave me up 33 points. Playing exactly 3 tiles here with 10 in the bag also has a small benefit in that if Kheiron bingoes immediately, it will empty the bag and give him a full rack of 7 tiles. With no opportunity for him to bingo twice on this board, this gives me a big advantage in endgame timing, especially with a clunky unseen pool including 4 I’s and BCFMPZ. </p>
+<p style="color: crimson;">	With this in mind, I went with the play of L12 H(A)LO for 26. This play scores nearly as well as (O)HO, but most importantly takes out the bingo line to the G, while offering very few bingoes through the O, the highest scoring of which only score up to 86 points (such as IMPRIS(O)N), which will still leave me up 33 points. Playing exactly 3 tiles here with 10 in the bag also has a small benefit in that if Kheiron bingoes immediately, it will empty the bag and give him a full rack of 7 tiles. With no opportunity for him to bingo twice on this board, this gives me a big advantage in endgame timing, especially with a clunky unseen pool including 4 I’s and BCFMPZ. </p>
 
 <br><br>
 
@@ -149,7 +149,7 @@ _(Macondo infers that Taurus is way more likely to have: JLRSW)_
 
 <p style="color: cornflowerblue;">I thought for a long time on this turn. The obvious plays here would be something like 9B BRACkET or BATChER, both for 70. However, I failed to see both bingoes, instead eventually settling with CABaRET for the same score. There was a star play here, though. It's a 10-letter word through ATE, scoring a whopping 102 points. Can you find it?</p>
 
-<details><summary>**Solution:**</summary>5B BRACTE(ATE)s</details>
+<details><summary><b>Solution:</b></summary>5B BRACTE(ATE)s</details>
 
 <p style="color: cornflowerblue;">After CABaRET, I proceeded to draw unrelentingly well. After my SEGNO for 39, I got back-to-back bingos of ADVISER 80 and LINNeTS for 72, bringing me up 264 going into the pre-endgame.</p>
 
@@ -164,15 +164,15 @@ _(Macondo infers that Taurus is way more likely to have: JLRSW)_
 ![](/images/uploads/20261026-234952.png)
 
 <p style="color: cornflowerblue;">In this position, I'm down 14 against Blibble but holding a decent rack. In fact, I spotted my 7 of EXTENTs almost instantly, which plays hooking (HINT)S for an insane 120 points. Instead, I played O1 TEXT for only 48 points.</p>
- 
-<p style="color: cornflowerblue;">No, this wasn't some brilliant calculated pass-up of EXTENTs. I was _somehow_, simply oblivious to the S hook of HINT. Thinking EXTENTs was homeless, I figured TEXT had to be my best option. While TEXT still wins 72.7% of the time due to my strong leave, the 120 points from EXTENTs would have likely sealed the game there and then.</p>
- 
+
+<p style="color: cornflowerblue;">No, this wasn't some brilliant calculated pass-up of EXTENTs. I was <i>somehow</i>, simply oblivious to the S hook of HINT. Thinking EXTENTs was homeless, I figured TEXT had to be my best option. While TEXT still wins 72.7% of the time due to my strong leave, the 120 points from EXTENTs would have likely sealed the game there and then.</p>
+
 <p style="color: cornflowerblue;">After TEXT, things actually briefly got scary as Blibble bingoed with B1 IODATED, hooking D(JIN) in the process. The only drawback to this play was that it floated the I in a rather volatile spot in the 3x3 lane. And, fortunately, my rack of DEELNR? was exactly what I needed to pounce on the spot, as I immediately slammed down L(I)NgERED for 122. I then drew OSZ out of the bag, leaving Blibble with no bingoes in the endgame.</p>
 
 ![](/images/uploads/20261026-235020.png)<p style="color: cornflowerblue;">My best play here was obvious: 15G ZOS# for 44. Still completely unaware of the (HINT)S hook, I instead played 14D SOZ# for 35, winning by 66. When I looked at the analysis, the first thing I saw was that ZOS# was available for 9 more.</p>
- 
+
 <p style="color: cornflowerblue;">The dread immediately sank in.</p>
- 
+
 <p style="color: cornflowerblue;">Praying that I somehow misremembered my rack, I frantically clicked back to the TEXT play, only to be met with the undeniable red “Large”.</p>
 
 ![](/images/uploads/20261026-235031.png)
@@ -190,24 +190,24 @@ _Part of my “mini crash-out” in our Discord group chat_
 ![](/images/uploads/20261026-235117.png)
 
 <p style="color: cornflowerblue;">With my rack of AAETTW?, I had two sevens available: WATTApE and WATTAgE, which both play at J9 for 66. (simulation slightly prefers playing at J1 instead for 3 less). I'm not too sure what my thought process here was, but I somehow managed to whiff both bingoes, instead playing J9 TWA for just 16, a medium-sized mistake.</p>
- 
+
 <p style="color: cornflowerblue;">Perhaps as punishment for my miss, KoalaJ responded with K7 APhELIA for 77. However, I managed to equalise the score two turns later with (O)UTAsKED for 86.</p>
- 
+
 <p style="color: cornflowerblue;">Unfortunately, KoalaJ then landed the one-two punch of NEG(L)ECTS for 64 and JARVEY(S) for 56, bringing me down 61 in this position.</p>
 
 ![](/images/uploads/20261026-235127.png)
 
 <p style="color: cornflowerblue;">I have one and only one bingo here: the rather tricky IDIO(T)YPE for 69. Of course, not knowing the word, I settled on (J)OEY for 42. Even without the bingo, E(J)IDO for 39 would have been better, scoring 3 less but unduplicating my I’s.</p>
- 
+
 <p style="color: cornflowerblue;">After KoalaJ’s 14K NE, I played 15L PIE(D) holding DDEIIMP, keeping the subpar DDIM leave and worse, missing the M(NA)# hook entirely, where F3 DIMP# would've played. This scored more and kept a stronger leave. Even plays like B11 P(A)ID for 22 were far superior to PIE(D), again keeping a better leave but scoring less than DIMP#. This play wins 33.1% of the time, a tad bit less than DIMP#.</p>
- 
+
 <p style="color: cornflowerblue;">A few turns later, I'm down 31 in this tough position. The unseen tiles here are heavily skewed towards consonants (ABDEHMNOQRRRSSSTUUX).</p>
 
 ![](/images/uploads/20261026-235138.png)
 
 <p style="color: cornflowerblue;">I had one standout play here. Unfortunately, I did not come close to seeing it, instead opting for my second best play: 8A WIL(I)# for 21. This play cost me 7.8% in win percentage. Can you do better?</p>
 
-<details><summary>**Solution:**</summary> G2 T(OI)LWORN</details>
+<details><summary><b>Solution:</b></summary> G2 T(OI)LWORN</details>
 
 <p style="color: cornflowerblue;">After WIL(I), my win% was only around 18.8%. However, in a stroke of luck, I drew DEU to my NORT leave, and after KoalaJ’s C2 BRUSH, I spotted UNDERTO(W) for 89, effectively icing the game right there and then.</p>
 
@@ -224,7 +224,7 @@ _Part of my “mini crash-out” in our Discord group chat_
 ![](/images/uploads/20261026-235316.png)
 
 <p style="color: cornflowerblue;">At first glance, the 7 on my rack, TOUSTIE, appears to be homeless. However, as I quickly considered the possibility of playing parallel to EERIEST, I saw an extremely stylish option: 13H TOUSTIE for 84, a 7-way overlap. Needless to say, these plays are exceedingly rare, so getting one down was very satisfying. TOUSTIE actually fueled the start of my comeback, as I drew a very solid rack with the blank afterwards.</p>
- 
+
 <p style="color: cornflowerblue;">Capitalizing on the lack of vowels in the pool, I made an interesting but incorrect setup of B4 W(O), creating a second bingo lane apart from the (TOUSTIE)R hook. This ended up working out well for me though, and I eventually drew an out-bingo of A3 PoRKIES to steal the win.</p>
 
 ![](/images/uploads/20261026-235333.png)
@@ -240,12 +240,12 @@ _Part of my “mini crash-out” in our Discord group chat_
 ![](/images/uploads/20261026-235359.png)
 
 <p style="color: cornflowerblue;">It didn't last for long.</p>
- 
+
 <p style="color: cornflowerblue;">After landing several medium-scoring plays, Taurus finished me off with KATI(P)O# for 36, following that up with DENARII for 76, bringing him up 136 in the endgame. While I was able to bingo out with R(E)CITiNG to trim my deficit somewhat, I still ended up losing by 50, my sixth straight loss to Taurus.</p>
 
 ![](/images/uploads/20261026-235408.png)
 
-<p style="color: cornflowerblue;">But _surely_, I’ll get him next time… right? After all, seventh time’s the charm!</p>
+<p style="color: cornflowerblue;">But <i>surely</i>, I’ll get him next time… right? After all, seventh time’s the charm!</p>
 
 <br><br>
 
@@ -256,7 +256,7 @@ _Part of my “mini crash-out” in our Discord group chat_
 <p style="color: forestgreen;">In this early game position, I am holding a bingo-ey rack against NASPA Grandmaster jellomochas (Alec Sjöholm).</p>
 
 ![](/images/uploads/20261026-235436.png)<p style="color: forestgreen;">After failing to spot any 7s on my rack (turned out there was only CEILERS, which didn’t fit anywhere anyway), I settled with 10E C(H)ISELER for 65, which turned out to be the best bingo available (both score-wise and win%-wise).</p>
- 
+
 <p style="color: forestgreen;">After Alec played K5 INCUS(E)S for 36, I roughly inferred that his 1-tile leave wasn’t a bingo-friendly tile, as he would have almost certainly bingoed otherwise. He was probably trying to keep the scoring pressure on me, while taking the extra turnover for the blanks with both unseen. But fortunately for me, holding ADGIOPT, I quickly found my only bingo of 6E ADOPTI(N)G for 68, increasing my lead to 90 points. Not long later I managed to fit a nice bingo of 13C (U)NFRoZEN for 73, surging further into the lead. While Alec made a very nice disconnected play of H10 (S)EI(Z)ED for 51 shedding vowels, I was still up by almost 100 points.</p>
 
 ![](/images/uploads/20261026-235454.png)
@@ -268,44 +268,44 @@ _Turn history after 6 turns each_
 ![](/images/uploads/20261026-235524.png)
 
 <p style="color: forestgreen;">After failing to spot any bingoes, I resorted to 14J YO for 26 points, hoping to draw into a bingo hooking (CHISELER)S next turn with the ING combo on my rack. And while I did manage to land M8 LISTING the following turn, I unfortunately missed ST(R)OYING (which is a word I definitely know) in L8, forming 3 overlaps. The bittersweet news would be that it was only a 4.0% medium mistake, so that didn’t damage my MI too badly.</p>
- 
+
 <p style="color: forestgreen;">Eventually I managed to hold on to my lead, ending the game with a score of 537-392. I was very relieved to win this game, as I was standing at 0-5 in the division prior to this game (not to mention my opponent is Alec after all!). So hopefully, this would be my turning point and things would go better for me.</p>
 
 _Spoiler alert: They didn’t._
- 
+
 My MI: 2.5
 
 Opp’s MI: 1.0
 
-<p style="color: forestgreen;">Now, obviously this is a “League Recap” article and not a “Glazing Myself for 3 Games Straight” compilation, which means there will be some good and some bad. Now that we’ve covered the good, let’s move on to the bad. And when I said “bad”, I meant like, _really_ bad.</p>
+<p style="color: forestgreen;">Now, obviously this is a “League Recap” article and not a “Glazing Myself for 3 Games Straight” compilation, which means there will be some good and some bad. Now that we’ve covered the good, let’s move on to the bad. And when I said “bad”, I meant like, <i>really</i> bad.</p>
 
 <br><br>
 
 **Game 2 - MI Atrocity, vol. [I lost count]**
 
 _(Can this guy think of more original subheadings instead of reusing them? 😔)_
- 
+
 <p style="color: forestgreen;">“Nevertheless, I made too many mistakes this game, and in the end, I ended up with one of my few >8 MI games throughout the entire league. Hopefully this won’t happen again in the future. :(” — Kheiron, Season 20 Recap</p>
- 
+
 <p style="color: forestgreen;">Well, well, well, what do we have here. A beautiful rack of AEIRRS?, the exact luck I needed to win against a player as strong as Kevin Fraley (Master title in both NASPA and WESPA). Since he exchanged to start with, it is me to go first, now let me just choose a bingo out of the many available to take the lead—</p>
 
 ![](/images/uploads/20261026-235558.png)
 
 _W- what???_
- 
+
 <p style="color: forestgreen;">Ok, surely that had to have been a typo or some sort. Now kfraley was holding 7 consonants after the exchange, and was forced to exchange again. Surely second time’s the charm and I won’t pass on accident, right?</p>
 
 ![](/images/uploads/20261026-235607.png)
 
 _“What is he doing???” — kfraley in front of his device, probably_
- 
-<p style="color: forestgreen;">No, those two passes were indeed NOT typoes. They were genuine passes, made by yours truly. My intrusive thoughts were telling me that a 64-point bingo would easily give back bingo lanes to him for \~80 points on average. However, now that I look back on it, he exchanged 5 tiles, which means his tiles were mostly random, and he is not as likely to bingo as I’d thought. Additionally, who doesn’t love some potential six-zero content? It is this mindset that contributed 2 of my MI in this game.</p>
+
+<p style="color: forestgreen;">No, those two passes were indeed NOT typoes. They were genuine passes, made by yours truly. My intrusive thoughts were telling me that a 64-point bingo would easily give back bingo lanes to him for &#126;80 points on average. However, now that I look back on it, he exchanged 5 tiles, which means his tiles were mostly random, and he is not as likely to bingo as I’d thought. Additionally, who doesn’t love some potential six-zero content? It is this mindset that contributed 2 of my MI in this game.</p>
 
 ![](/images/uploads/20261026-235625.png)
 
-<p style="color: forestgreen;">After Kevin’s JOW and my long subdue bingo of ARtSIER, I missed [kNEE(H)OLE](https://woogles.io/game/9tAGiRvVAE?turn=8) and [FL(A)VONEs](https://woogles.io/game/9tAGiRvVAE?turn=10), contributing 2 more MI to my total. Things were not any better, as I played [EGeS(T)ION](https://woogles.io/game/9tAGiRvVAE?turn=14) instead of the engine’s preferred choice of bESOGNI(O) (not like I would’ve spotted that), then later missing [(B)EWHORES](https://woogles.io/game/9tAGiRvVAE?turn=18) for 26 more points, didn’t opt for a [Z setup](https://woogles.io/game/9tAGiRvVAE?turn=20), followed by missing a [play from the Z](https://woogles.io/game/9tAGiRvVAE?turn=22), and finally finding a Z play but somehow missing the common English word [I(M)AGINES](https://woogles.io/game/9tAGiRvVAE?turn=26).</p>
- 
-<p style="color: forestgreen;">_(exhausted breathing)_ Wow, you made it all the way to here? Well congratulations, you have probably witnessed the worst game ever played in Division 1 in League History. A total of 8 large mistakes, 2 medium mistakes, 2 small mistakes, and only 2 optimal plays. Needless to say, this is the worst game I have played across all 22 seasons in League, and hopefully, for real this time, this won’t happen again in the future. :(</p>
+<p style="color: forestgreen;">After Kevin’s JOW and my long subdue bingo of ARtSIER, I missed <a href="https://woogles.io/game/9tAGiRvVAE?turn=8">kNEE(H)OLE</a> and <a href="https://woogles.io/game/9tAGiRvVAE?turn=10">FL(A)VONEs</a>, contributing 2 more MI to my total. Things were not any better, as I played <a href="https://woogles.io/game/9tAGiRvVAE?turn=14">EGeS(T)ION</a> instead of the engine’s preferred choice of bESOGNI(O) (not like I would’ve spotted that), then later missing <a href=https://woogles.io/game/9tAGiRvVAE?turn=18>(B)EWHORES</a> for 26 more points, didn’t opt for a <a href="https://woogles.io/game/9tAGiRvVAE?turn=20">Z setup</a>, followed by missing a <a href="https://woogles.io/game/9tAGiRvVAE?turn=22">play from the Z</a>, and finally finding a Z play but somehow missing the common English word <a href="https://woogles.io/game/9tAGiRvVAE?turn=26">I(M)AGINES</a>.</p>
+
+<p style="color: forestgreen;"><i>(exhausted breathing)</i> Wow, you made it all the way to here? Well congratulations, you have probably witnessed the worst game ever played in Division 1 in League History. A total of 8 large mistakes, 2 medium mistakes, 2 small mistakes, and only 2 optimal plays. Needless to say, this is the worst game I have played across all 22 seasons in League, and hopefully, for real this time, this won’t happen again in the future. :(</p>
 
 My MI: 9.4 (New personal worst in League)
 
@@ -324,7 +324,7 @@ Opp’s MI: 1.9
 ![](/images/uploads/20261026-235729.png)
 
 <p style="color: forestgreen;">For the first time in 22 seasons, I typoed my play. Now instead of B(E)RMED for 28, I played the obviously worse B(E) for 7 only, keeping the board shut. All because I was rushing too fast trying to click my tiles on my phone, causing all my clicks after the first one not to register on time before submitting my play. I was devastated, as I knew I might have choked the game at that point. I should and will definitely start typing more carefully before submitting. After all, I have 10 hours per turn anyways, no one told me to rush all turns in minutes!</p>
- 
+
 <p style="color: forestgreen;">From that point on, I was sort of demotivated to continue the game, so I finished the game in a state of shock and disappointment. I was certainly not in my best shape, but alas, it was my full responsibility at the end of the day.</p>
 
 <p style="color: forestgreen;">But before I end my section, we still have to answer a question: Would B(E)RMED have been the top play in that situation? Well, turned out it wasn’t. The top simming was I7 B(R)R for 23, which similar to my original plan of B(E)RMED, keeps the QU combination for future turns. While B(E)RMED itself would have been a medium mistake, I would still have a significantly higher chance of making my comeback in the game.</p>
@@ -332,11 +332,11 @@ Opp’s MI: 1.9
 My MI: 4.5
 
 Opp’s MI: 2.2
- 
+
 **Game 4: The Other Perspective**
 
 _You all have seen Inverse glazing on how he stole the win against me above, so I figured I should also provide my perspective for clarity :p_
- 
+
 <p style="color: forestgreen;">In this position, I am holding a narrow 9 point lead against Inverse.</p>
 
 ![](/images/uploads/20261026-235754.png)
