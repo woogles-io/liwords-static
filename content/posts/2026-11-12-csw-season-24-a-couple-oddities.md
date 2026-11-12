@@ -96,5 +96,9 @@ Stay tuned for Kh1108 and Inverse's article about Season 24, and my commentary o
 **Stats**
 
 Lost Endgame Points: 204 (6/14 Perfect Endgames, 1 Blown Endgame)
+
+
 Missed Bingo Turns: 6 (3 Word Knowledge, 2 Playfinding, 1 "Forgot I wrote it down" incident)
+
+
 Suboptimal Bingo Turns: 11 (4 Word Knowledge, 1 Playfinding, 6 Strategy)
