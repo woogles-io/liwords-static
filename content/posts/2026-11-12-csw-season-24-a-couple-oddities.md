@@ -85,6 +85,7 @@ I didn't see any triple-triples in the unseen pool (AEEILNOV), but I figured I m
 This is a pretty cool milestone that I didn't think I would achieve out of nowhere. My best games in league before this were 1 or 2 games at 0.4 MI. As stated before, this definitely takes both some luck and some skill, so I'm looking forward to seeing other players play some brilliant games in league and join the 0.0 club.
 <br><br>
 **Afterword**
+
 This was a pretty good season for me, finishing 4th with a 9-5 +389 record. I did draw a high 1.29 average blanks per game, but there were a couple games where I could've made better use of them. It was a pretty tough season for me in the endgame department, with a pretty interesting blown endgame where I missed a tie against shafiquet.
 
 Stay tuned for Kh1108 and Inverse's article about Season 24, and my commentary on our games together!
@@ -92,6 +93,7 @@ Stay tuned for Kh1108 and Inverse's article about Season 24, and my commentary o
 
 <br><br>
 **Stats**
+
 Lost Endgame Points: 204 (6/14 Perfect Endgames, 1 Blown Endgame)
 Missed Bingo Turns: 6 (3 Word Knowledge, 2 Playfinding, 1 "Forgot I wrote it down" incident)
 Suboptimal Bingo Turns: 11 (4 Word Knowledge, 1 Playfinding, 6 Strategy)
