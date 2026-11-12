@@ -19,7 +19,6 @@ I don't have much to say for this article except enjoy some of my fun moments fr
 <br><br>
 **Game 1: ADEEIMNT**
 
-
 It's Biyo's turn and I'm sitting with the rack of BCIORST, holding a small lead here:
 
 ![](/images/uploads/20261111-224650.png)
@@ -60,6 +59,8 @@ After looking over my options for a while, I found this idea of drawing the C af
 Unfortunately, the final tile in the bag was an E, and after kfraley played their best move of ACINI, my top scoring bingo of (O)UTpREEN still lost by 11, 470-481.
 <br><br>
 **Game 3: A Perfect Game!?**
+
+
 For the first time this season, I managed to play a game that Macondo gave a 0.0 MI (Mistake Index) to. As far as I can tell, this has only happened a couple of times in league (played by jellomochas, surprising just about nobody). Although it does help that most of my decisions in this game were not particularly close,   where I couldn't pick up a small error with a barely inferior play, there were some decent plays that I think are at least a bit instructive. 
 
 ![](/images/uploads/20261111-232942.png)
