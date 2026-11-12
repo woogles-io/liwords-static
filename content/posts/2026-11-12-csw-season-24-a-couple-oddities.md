@@ -60,7 +60,6 @@ Unfortunately, the final tile in the bag was an E, and after kfraley played thei
 <br><br>
 **Game 3: A Perfect Game!?**
 
-
 For the first time this season, I managed to play a game that Macondo gave a 0.0 MI (Mistake Index) to. As far as I can tell, this has only happened a couple of times in league (played by jellomochas, surprising just about nobody). Although it does help that most of my decisions in this game were not particularly close,   where I couldn't pick up a small error with a barely inferior play, there were some decent plays that I think are at least a bit instructive. 
 
 ![](/images/uploads/20261111-232942.png)
@@ -83,7 +82,7 @@ In the preendgame, bnjy opens a desperation triple-triple line with L11 DI(N)GY.
 
 ![](/images/uploads/20261111-234940.png)
 
-I didn't see any triple-triples in the unseen pool (AEEILNOV), but I figured I might as well be safe, so I played my top scoring play of 15H HAND(Y) for 36, emptying the bag. The O was the final tile in the bag, and although I didn't see that bnjy had a bingo with AEEILNV, sure enough bnjy spots their only available outbingo of ENVIA(B)LE for 76, ending the game. 
+I didn't see any triple-triples in the unseen pool (AEEILNOV), but I figured I might as well be safe, so I played my top scoring play of 15H HAND(Y) for 36, emptying the bag. The O was the final tile in the bag, and although I didn't see that bnjy had a bingo with AEEILNV, sure enough, bnjy spots their only available outbingo of ENVIA(B)LE for 76, ending the game. 
 
 This is a pretty cool milestone that I didn't think I would achieve out of nowhere. My best games in league before this were 1 or 2 games at 0.4 MI. As stated before, this definitely takes both some luck and some skill, so I'm looking forward to seeing other players play some brilliant games in league and join the 0.0 club.
 <br><br>
