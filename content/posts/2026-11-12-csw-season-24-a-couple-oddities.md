@@ -1,6 +1,6 @@
 ---
 title: 'CSW Season 24: A Couple Oddities'
-date: 2026-11-11T22:29:00
+date: 2026-11-12T00:20:00
 authors:
   - Xadreco
 description: Another mini-analysis of interesting positions in season 24
