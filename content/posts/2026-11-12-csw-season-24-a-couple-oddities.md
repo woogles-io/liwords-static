@@ -18,6 +18,8 @@ I don't have much to say for this article except enjoy some of my fun moments fr
 
 <br><br>
 **Game 1: ADEEIMNT**
+
+
 It's Biyo's turn and I'm sitting with the rack of BCIORST, holding a small lead here:
 
 ![](/images/uploads/20261111-224650.png)
@@ -89,7 +91,6 @@ This is a pretty cool milestone that I didn't think I would achieve out of nowhe
 This was a pretty good season for me, finishing 4th with a 9-5 +389 record. I did draw a high 1.29 average blanks per game, but there were a couple games where I could've made better use of them. It was a pretty tough season for me in the endgame department, with a pretty interesting blown endgame where I missed a tie against shafiquet.
 
 Stay tuned for Kh1108 and Inverse's article about Season 24, and my commentary on our games together!
-
 
 <br><br>
 **Stats**
