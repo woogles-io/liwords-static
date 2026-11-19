@@ -18,6 +18,8 @@ cover: /images/uploads/Bombs.png
 I didn't have much to write about for this season, but there were a couple of fun positions I have to talk about. This was probably the season I actually went the deepest into the timebank for because I had some real life obligations to take care of at the same time. Would those get in the way of trying to play well?
 <br><br>
 **Section 1: Always On the Wrong End**
+
+
 I jumped out to an early lead against Blibble after my 104 point bingo of ZABeTAS# on my previous turn, but Blibble hit right back with UNTIDI(e)R to stay in 1 bingo range. 
 
 ![](/images/uploads/20261118-223457.png)
@@ -48,6 +50,8 @@ That triple-triple is MEI(O)CYTE#, scoring 185, a 155 point and 63.8% win percen
 Once again, I was not punished for my error and got lucky to escape with the win in this game after landing a 70 point J play in the preendgame.
 <br><br>
 **Section 2: The Obligatory Preendgame**
+
+
 It's not quite a Xadreco recap article if I don't have something to say about a preendgame :)
 ![](/images/uploads/20261118-225054.png)
 
