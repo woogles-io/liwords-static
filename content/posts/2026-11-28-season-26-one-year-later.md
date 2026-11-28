@@ -1,5 +1,5 @@
 ---
-title: 'Season 26: One Year Later'
+title: 'CSW Season 26: One Year Later'
 date: 2026-11-27T18:37:00
 authors:
   - Xadreco
@@ -28,6 +28,8 @@ The unseen tile pool is AAFILNOT. The obvious play here that I quickly found and
 I actually threw away 12.5% winning chances by not playing my only 100% winning play of C12 JISM for 35. The reason for this is that with the O in the bag, trustmeimnotabot is threatening a very sneaky play of C8 FANTAIL for 90 points, making 4 overlaps, to the left of AURA. After JIV(E)S, this bingo puts the score at 467-459, but then they catch me with GMNO, squeaking them over the finish line with a final score of 467-473. My best play of JISM blocks this bingo, while also scoring just enough to outrun A(B)LATION at the top.
 <br><br>
 **Game 2: Not 100%?**
+
+
 It's jellomochas' turn here, already holding a 72 point lead, and with multiple playable bingoes. jellomochas quickly plays D4 NITROUS for 71, putting them up 143 points, which will easily outrun my bingoes through the open letters.
 
 ![](/images/uploads/20261127-113723.png)
@@ -192,7 +194,6 @@ In the end, I actually would've been fine, even had I lost, since jellomochas di
 <br><br>
 **Conclusion**
 
-
 On the final season of year 1 of league, I finally managed to win my first season. I undeniably got lucky en route to winning league, as evidenced by my high 468.6 average game score. 
 
 As a <s>Scrabble</s> OMGWords player, since season 1, my skill has changed a lot. In season 1, in terms of formal word study, I had not even completed the 3's, nor had I studied a single 8 letter bingo. I was only at 1000 7s learned at that time as well. Since then, although I've been on hiatus because of studies and general low motivation for a while, I'm at about 5000 each for 7s and 8s, and I'm slowly making my way through every 4. Since season 1, I attended my first ever in-person tournament and met and played with a bunch of awesome Scrabblers, some of which I'd actually played in league (or otherwise on Woogles) before. Hopefully when season 52 rolls around next year, I can say that I'm way deeper into the bingoes. 
@@ -205,7 +206,6 @@ Huge shoutout to Cesar and everyone else on the Woogles team, as well as all the
 This is a collection of some interesting that have happened in my 364 games in league thus far:
 
 Lowest Probability Bingoes: ShIVAHS (33496), ST(E)MlESS (38490)
-
 
 Best MiAOW: 1.8 | Worst MiAOW: 3.4
 
@@ -228,4 +228,4 @@ Endgame Difference from Optimal: +123
 <br><br>
 Here's to year 2 of league! 
 
-~Xadreco
+\~Xadreco
