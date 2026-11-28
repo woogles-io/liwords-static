@@ -86,24 +86,17 @@ Of course, I first need to block this play to stick andy with the Q. I went with
 
 B10 (ZEA)s 12
 
-
 1L (MO)BS 24
-
 
 9C P(UT) 16
 
-
 pass
-
 
 1A XU 31
 
-
 pass
 
-
 J4 n(T)H 28 +Q
-
 
 471-427
 
@@ -155,7 +148,7 @@ For what it's worth, Inverse also played quite well.
 <br><br>
 **Game 7: The Race for First**
 
-My game with supernova was one of my last to finish, and it was an extremely important game. I had a ridiculously high spread at this point, so as long as I at least tied whoever was in second at the time in wins, then I would likely hold on to win the season. jellomochas was about tied at the time in their in-progress game with supernova. A win for jellomochas would put them at 10-4, and I was at 8-5 at the time, so I needed to win this game to be guaranteed the season win, but a loss could still hypothetically give me a win if jellomochas lost as well. 
+My game with supernova was one of my last to finish, and it was an extremely important game. I had a ridiculously high spread at this point, so as long as I at least tied whoever was in second at the time in wins, then I would likely hold on to win the season. jellomochas was about tied at the time in their in-progress game with supernova. A win for jellomochas would put them at 10-4, and I was at 9-4 at the time, so I needed to win this game to be guaranteed the season win, but a loss could still hypothetically give me a win if jellomochas lost as well. 
 
 ![](/images/uploads/20261127-133807.png)
 
