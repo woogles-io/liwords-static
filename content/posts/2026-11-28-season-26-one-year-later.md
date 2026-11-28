@@ -29,7 +29,6 @@ I actually threw away 12.5% winning chances by not playing my only 100% winning 
 <br><br>
 **Game 2: Not 100%?**
 
-
 It's jellomochas' turn here, already holding a 72 point lead, and with multiple playable bingoes. jellomochas quickly plays D4 NITROUS for 71, putting them up 143 points, which will easily outrun my bingoes through the open letters.
 
 ![](/images/uploads/20261127-113723.png)
@@ -86,17 +85,31 @@ I managed to pull both blanks on my replenishment pull, and andy is holding BQS.
 Of course, I first need to block this play to stick andy with the Q. I went with 9D (U)T for 2 points to save my highest scoring tiles for some other ideas. (This is not quite best). Acknowledging the potential for me to make setups, andy makes an astute choice to pass their turn, keeping the B and S to block my setups. After doing a bunch of math and testing different endgame sequences, I settled on the following sequence, which led to a 44 point win:
 
 B10 (ZEA)s 12
+
+
 1L (MO)BS 24
+
+
 9C P(UT) 16
+
+
 pass
+
+
 1A XU 31
+
+
 pass
+
+
 J4 n(T)H 28 +Q
+
+
 471-427
 
 Despite not playing the endgame perfectly, I gained 85 points in the endgame, because being stuck with the Q is so bad.
 
-Just to demonstrate how dangerous setups can be from this position, let's say andy played off their 2 B and S early. If this happened, I might have plays such as 1L (MO)U, setting up plays like PreX hooking MOUP# for around 80 points.
+Just to demonstrate how dangerous setups can be from this position, let's say andy played off their B and S early. If this happened, I might have plays such as 1L (MO)U, setting up plays like PreX hooking MOUP# for around 80 points.
 
 <br><br>
 
